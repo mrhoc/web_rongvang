@@ -1,0 +1,107 @@
+#ez-toc-container {
+    display: none!important;
+}
+.wp-pagenavi a, .wp-pagenavi span{padding: 3px 12px!important;}
+.sfsi_widget .sfsi_wDiv .sfsi_wicons .inerCnt a, .sfsi_widget .sfsi_wDiv .sfsi_wicons .inerCnt a.sficn{
+    padding: 5px!important;
+    border-radius: 50%;
+}
+.pagination{
+    margin-bottom: 50px;
+}
+.single-matches br{
+    display: none;
+}
+
+#datepicker{
+    border: none;
+}
+#datepicker::placeholder{
+    color: #000;
+}
+@media (min-width: 768px) {
+    .header-pc{
+        height: 56px;
+    }
+}
+.logo{
+    width: 40px;
+    height: 40px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #d50021;
+    color: #ffffff;
+    font-size: 30px;
+    margin-right: 2px;
+}
+.txt_logo{
+    font-size: 20px;
+    color: #ffffff;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.txt_logo >span{
+    font-size: 14px;
+    animation: mymove 1s steps(2, start) infinite;
+    position: relative;
+
+}
+.cc{
+    position: relative;
+    top: -8px;
+}
+.cc img{
+    width: 10px;
+    height: auto;
+
+}
+@media (max-width: 768px) {
+    .txt_logo{
+        font-size: 18px;
+    }
+}
+
+@keyframes blink-animation {
+    to {
+        visibility: hidden;
+    }
+}
+
+@keyframes mymove {
+    0% {
+        display: block;
+        color: #d50021;}
+
+    100% {
+        display: block;
+        color: #ffffff;}
+}
+.tab-stats td{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.line-ups table img{
+    width: 32px;
+    height:auto;
+}
+.tabs-events img{
+    width: 24px;
+    height: auto;
+}
+.tbl-kickoff{
+    max-width: 520px;
+    margin: 0 auto;
+    width: 100%;
+}
+.tbl-kickoff tr td{
+    width: 200px;
+    padding: 10px 10px;
+}
+.tbl-kickoff tr td:nth-child(2){
+    width: 100px;
+
+}
