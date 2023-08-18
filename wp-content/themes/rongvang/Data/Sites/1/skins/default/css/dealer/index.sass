@@ -1,0 +1,239 @@
+select
+	font-family: 'Arial' !important
+	option
+		font-family: 'Arial' !important
+.dealer
+	.iframe-map-wrapper
+		display: block
+		height: 0
+		overflow: hidden
+		padding-top: 490 / 900 * 100%
+		position: relative
+		iframe
+			position: absolute
+			top: 0
+			left: 0
+			width: 100%
+			height: 100%
+			object-fit: cover
+
+	.system-wrap
+		padding: 0 170px 30px
+		@media screen and(max-width:1025px)
+			padding: 0 
+	.locate-msg
+		margin-top: 15px
+	.search-location
+		display: flex
+		flex-wrap: wrap
+		margin-left: -30px
+		margin-bottom: -20px
+		> *
+			width: 33.33%
+			padding-left: 30px
+			margin-bottom: 20px
+			box-sizing: border-box
+		.section-group
+			select
+				height: 45px
+				width: 100%
+				padding: 0 25px
+				font-family: 'Arial' !important
+				font-weight: 600
+				appearance: none
+				background-image: url(../img/sl.png)
+				background-position:  90% 50%
+				background-repeat: no-repeat
+		.get-dir-button
+			input[type="submit"]
+				width: 100%
+				height: 45px
+				max-width: 190px
+				background: $xanh-la-1
+				border: 0
+				border-radius: 22.5px
+				color: #fff
+				font-weight: 800
+				color: #fff !important
+				text-transform: uppercase
+				margin: 0 auto
+				transition: 0.3s all
+				&:hover
+					text-decoration: none
+					background: darken($xanh-la-1, 10%)
+	.dealer-modals
+		padding-top: 70px
+		.modal-toggle
+			position: relative
+			.text
+				position: absolute
+				top: 50%
+				left: 50%
+				transform: translate(-50%, -50%)
+				text-align: center
+				color: #fff
+				width: 100%
+				pointer-events: none
+				.title
+					display: block
+					font-weight: 900
+					text-transform: uppercase
+					font-size: r(22px)
+					margin-top: 15px
+	.dealer-list
+		ul
+			list-style: none
+			font-size: 15px
+			padding-left: 0
+			margin: 0
+			max-height: 500px
+			overflow-y: auto
+			padding-right: 10px
+			&::-webkit-scrollbar
+				width: 4px
+				background: #ccc
+			&::-webkit-scrollbar-thumb
+				background: $xanh-la-1
+			li
+				padding: 30px 20px
+				border-bottom: 1px dashed #999
+				p
+					margin: 0
+					display: flex
+					font-size: 14px
+					span
+						margin-right: 5px
+					+ p
+						margin-top: 10px
+				.name
+					text-transform: uppercase
+					font-weight: 700
+					color: $xanh-1
+					font-size: 16px
+				&.active
+					background: $xanh-1
+					border-bottom: 0
+					p
+						color: white !important
+	@media screen and ( max-width: 768px )
+		#clinic-finder
+			padding: 0 0 30px
+	@media screen and ( max-width: 576px )
+		.search-location
+			> *
+				width: 100%
+			.get-dir-button
+				text-align: center
+.dealer-policy-modal,.dealer-register-modal
+	padding: 0
+	width: 1200px
+	.fancybox-close-small
+		background: $xanh-la-1
+		svg
+			path
+				fill: #fff
+	.modal-title
+		height: 211px
+		display: flex
+		align-items: center
+		padding: 0 100px
+		color: #fff
+		background-repeat: no-repeat
+		background-size: cover
+		font-weight: 900
+		font-size: r(35px)
+		text-transform: uppercase
+	@media screen and ( max-width: 768px )
+		.modal-title
+			padding: 0 30px
+.dealer-policy-modal
+	.modal-content
+		padding: 70px
+		font-size: 14px
+	.policy-content
+		max-height: 582px
+		overflow-y: auto
+		padding-right: 70px
+		&::-webkit-scrollbar
+			width: 3px
+			background: #d8d8d8
+		&::-webkit-scrollbar-thumb
+			background: $xanh-la-1
+	@media screen and ( max-width: 768px )
+		.modal-content
+			padding: 30px
+		.policy-content
+			padding-right: 17px
+
+.dealer-register-modal
+	.modal-content
+		padding: 30px 70px
+		font-size: 14px
+	.thank-text
+		margin-bottom: 40px
+	.form-register
+		.lead
+			text-transform: uppercase
+			margin: 30px 0
+		.form-group
+			label
+				display: block
+				margin-bottom: 10px
+			input[type="text"]
+				border-radius: 20px
+				border: 1px solid #d8d8d8
+				height: 40px
+				width: 100%
+				box-sizing: border-box
+				padding: 0 15px
+		.frm-btn
+			margin-top: 30px
+			input[type="submit"]
+				max-width: 133px
+		.frm-captcha
+			width: 50%
+			float: right
+			margin-top: -71px
+			padding-left: 20px
+			.frm-captcha-input
+				float: left
+			.RadCaptcha
+				display: flex
+				flex-direction: column-reverse
+				float: left
+				width: auto !important
+				margin-left: 20px
+				> div
+					padding-top: 20px
+					> div
+						display: flex
+						align-items: center
+						flex-direction: row-reverse
+						.rcRefreshImage
+							margin-right: 20px
+							font-size: 0
+							display: flex
+							align-items: center
+							text-decoration: none
+							&:before
+								content: '\f450'
+								font-family: Material Design Icons
+								font-size: 24px
+
+	@media screen and ( max-width: 768px )
+		.modal-content
+			padding: 30px
+	@media screen and ( max-width: 576px )
+		.form-register
+			.frm-captcha
+				float: none
+				margin-top: 30px
+				width: auto
+				padding-left: 0
+				.frm-captcha-input
+					float: none
+				.RadCaptcha
+					float: none
+					> div
+						> div
+							flex-direction: row

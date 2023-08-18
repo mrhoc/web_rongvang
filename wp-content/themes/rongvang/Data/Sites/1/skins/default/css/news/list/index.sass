@@ -1,0 +1,74 @@
+.news-list
+	.news-item
+		box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1)
+		.date
+			padding-right: 20px
+			text-align: center
+			border-right: 1px solid #e1e1e1
+			color: $main-color
+			display: flex
+			align-items: center
+			flex-direction: column
+			height: 52px
+			.day
+				display: block
+				font-size: r(35px)
+				font-weight: 900
+				line-height: 1
+			.month
+				font-size: 12px
+				white-space: nowrap
+				line-height: 17px
+				font-weight: 900
+		.title
+			+line(3)
+			font-weight: 600
+			a
+				text-decoration: none
+		.content-wrapper
+			display: flex
+		.content
+			padding-left: 20px
+		&.big
+			display: flex
+			flex-wrap: wrap
+			> *
+				box-sizing: border-box
+				width: 50%
+			.img
+				a
+					+img-scale(363 / 399 * 100%)
+			.content-wrapper
+				padding: 30px
+			.brief
+				font-size: 14px
+				+line(5)
+
+			.view-detail
+				font-size: 14px
+				display: flex
+				align-items: center
+				text-decoration: none
+				margin-top: 30px
+				em
+					margin-left: 8px
+		&.small
+			padding: 15px
+			.img
+				a
+					+img-scale(228 / 354 * 100%)
+			.content-wrapper
+				margin-top: 20px
+			.title
+				font-size: 15px
+				line-height: 20px
+	@media screen and ( max-width: 768px )
+		.news-item
+			&.big
+				> *
+					width: 100%
+	@media screen and ( max-width: 576px )
+		.news-item
+			&.big
+				.content-wrapper
+					padding: 30px 15px

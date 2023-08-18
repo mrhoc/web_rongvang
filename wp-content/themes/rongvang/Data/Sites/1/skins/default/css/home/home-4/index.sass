@@ -1,0 +1,65 @@
+.home-4
+	background-repeat: no-repeat
+	background-size: cover
+	.item
+		display: flex
+		align-items: center
+		.caption
+			padding-left: 36px
+			span
+				display: block
+		&:hover
+			.bevel-corner
+				.bevel
+					border-color: $xanh-la-1
+				.bevel-content
+					background: $xanh-la-1
+			.icon
+				img
+					filter: brightness(0) invert(100%)
+	.icon
+		img
+			max-width: 33px
+			transition: 0.3s all
+	.caption
+		color: #fff
+		.number
+			font-size: r(50px)
+			font-weight: 800
+			line-height: 1
+		.text
+			font-size: r(14px)
+			text-transform: uppercase
+	.bevel-corner
+		transform: rotate(45deg)
+		position: relative
+		.bevel
+			border-width: 10px
+			border-color: #fff
+			border-style: solid
+		.bevel-content
+			width: 74.75px
+			height: 55px
+			background: #fff
+			margin: -1px 0
+			display: flex
+			align-items: center
+			justify-content: center
+			transition: 0.3s all
+		.bevel
+			height: 0px
+			width: 55px
+			transition: 0.3s all
+			&.tr, &.tl 
+				border-top: 0
+			&.br, &.bl 
+				border-bottom: 0
+			&.tr, &.br 
+				border-right-color: transparent !important
+			&.tl, &.bl 
+				border-left-color: transparent !important
+		.content
+			transform: rotate(-45deg)
+	@media screen and ( max-width: 576px )
+		.item
+			justify-content: center

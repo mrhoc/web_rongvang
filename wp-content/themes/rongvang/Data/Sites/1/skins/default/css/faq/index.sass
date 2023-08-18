@@ -1,0 +1,100 @@
+.faq-section
+	.faq-wrapper
+		padding-left: 70px
+		.newspager
+			display: none
+	.faq-nav
+		ul
+			display: flex
+			// flex-wrap: wrap
+			list-style: none
+			padding-left: 0
+			margin-bottom: -30px
+			margin-left: -30px
+			overflow-x: auto
+			li
+				box-sizing: border-box
+				width: 33.33%
+				padding-left: 30px
+				margin-bottom: 30px
+				a
+					display: flex
+					justify-content: center
+					align-items: center
+					height: 109px
+					border: 1px solid #d0d0d0
+					border-radius: 4px
+					padding: 0 40px
+					text-decoration: none
+					color: #999999
+					font-size: 14px
+					transition: 0.3s all
+					img
+						margin-right: 15px
+				&:hover,&.active
+					a
+						background: $main-color
+						color: #fff
+						font-weight: 900
+						img
+							filter: brightness(0) invert(1)
+	.faq-container
+		margin-top: 40px
+		border-top: 1px solid #e0e0e0
+		.faq-list
+			counter-reset: li
+			li
+				border-bottom: 1px solid #e0e0e0
+				margin-top: 0
+				.uk-accordion-title 
+					display: flex
+					align-items: center
+					padding-left: 16px
+					padding: 20px
+					transition: all 0.3s
+					.number
+						font-size: 20px
+						color: #999999
+						margin-right: 35px
+						&:before
+							counter-increment: li;
+							content: counter(li, decimal-leading-zero)
+					.title
+						font-size: 13px
+						text-transform: uppercase
+						color: #666666
+						font-weight: 600
+					&:before
+						display: none
+				.uk-accordion-content
+					padding: 20px 20px 20px 70px
+					font-size: 14px
+					line-height: 26px
+					margin-top: 0
+				&.uk-open
+					.uk-accordion-title 
+						box-shadow: 0px 3px 10px 0px rgba(0, 0, 0, 0.2)
+						.number,.title
+							color: #333
+							font-weight: 700
+	.faq-view-more
+		margin-top: 40px
+		a
+			min-width: 0
+			width: 196px
+	@media screen and ( max-width: 1025px )
+		.faq-wrapper
+			padding-left: 0
+	@media screen and ( max-width: 768px )
+		.faq-nav
+			ul
+				li
+					width: auto
+					a
+						width: 150px
+	@media screen and ( max-width: 576px )
+		.faq-container
+			.faq-list
+				li
+					.uk-accordion-content
+						padding: 20px 0

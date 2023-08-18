@@ -1,0 +1,87 @@
+.home-3
+	background-repeat: no-repeat
+	background-size: cover
+	.tab-switcher
+		display: flex
+		justify-content: center
+		border-bottom: 1px solid #959595
+		ul
+			display: flex
+			list-style: none
+			padding-left: 0
+			margin-bottom: 0
+			li
+				+ li
+					margin-left: 30px
+				a
+					text-align: center
+					display: block
+					max-width: 120px
+					text-decoration: none
+					color: inherit
+					padding-bottom: 20px
+					padding-right: 25px
+					padding-left: 25px
+					line-height: r(20px)
+					img
+						margin-bottom: 10px
+					span
+						display: block
+				&.uk-active
+					a
+						font-weight: 700
+						position: relative
+						&:before
+							content: ''
+							position: absolute
+							width: 100%
+							left: 0
+							bottom: -2.5px
+							height: 5px
+							background: $main-color
+	.product-tabs-container
+		padding-top: 100px
+		.uk-grid
+			margin-left: -2px
+			> *
+				padding-left: 2px
+	.product-item
+		background: transparent
+		padding: 0
+		.img
+			margin-bottom: -100px
+			height: 290px
+			img
+				height: 100%
+		.caption
+			background: #fff
+			padding-top: 130px
+			padding-bottom: 30px
+			border-radius: 8px
+			transition: 0.3s all
+		&:hover
+			.caption
+				background: $main-color
+				color: #fff
+				.view-more
+					background: transparent
+					color: #fff
+					border: 1px solid #959595
+	.uk-slidenav
+		top: auto
+		bottom: 131px
+	.btn-view-all
+		margin-top: 50px
+	@media screen and ( max-width: 768px )
+		.product-tabs-container
+			padding-top: 50px
+		.uk-slidenav
+			bottom: 50%
+			background: #3c86c8
+			color: #fff
+			&.uk-position-center-left
+				left: 0
+			&.uk-position-center-right
+				right: 0
+		.btn-view-all
+			margin-top: 30px

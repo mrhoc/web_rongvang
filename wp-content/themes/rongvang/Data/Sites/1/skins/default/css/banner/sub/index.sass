@@ -1,0 +1,55 @@
+.banner-sub
+	position: relative
+	&:before
+		content: ''
+		display: block
+		position: absolute
+		left: 0
+		bottom: 0
+		width: 100%
+		height: 100%
+		background: rgba(#333333,.3)
+		z-index: 1
+	.uk-slider-items
+		height: 100%
+	.banner-wrapper
+		height: 600px
+		img
+			width: 100%
+			height: 100%
+			object-fit: cover
+	.breadcrumb-wrapper
+		top: calc(50% + 32px)
+		z-index: 2
+		color: #fff
+		.zone-title
+			h1
+				color: #fff
+				font-size: r(40px)
+				font-weight: 600
+				text-align: center
+				text-transform: uppercase
+	.breadcrumb
+		display: flex
+		align-items: center
+		justify-content: center
+		list-style: none
+		padding-left: 0
+		margin: 0
+		li
+			font-size: 13px
+			a
+				color: #fff
+			+ li
+				padding-left: 13px
+				display: flex
+				align-items: center
+				&:before
+					font-family: 'Font Awesome 5 Free'
+					font-weight: 900
+					content: '\f054'
+					margin-right: 13px
+					font-size: 10px
+	@media screen and ( max-width: 768px )
+		.banner-wrapper
+			height: 450px

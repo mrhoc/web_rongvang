@@ -1,0 +1,87 @@
+.project-detail-content
+	h2
+		font-weight: 900
+		font-size: r(25px)
+		text-transform: uppercase
+	.img
+		a
+			+img-scale(56.25%)
+	.briefcontent
+		padding: 40px 30px
+		background: #ebebeb
+		margin-top: 10px
+		.list
+			ul
+				list-style: none
+				padding-left: 0
+				margin-bottom: 0
+				display: flex
+				flex-wrap: wrap
+				margin: 0 -15px
+				li
+					width: 25%
+					display: flex
+					padding-left: 15px
+					padding-right: 15px
+					box-sizing: border-box
+					+ li
+						border-left: 1px solid #cccccc
+					.icon
+						margin-right: 10px
+						padding-top: 5px
+						flex: 0 0 40px
+						text-align: center
+					.text
+						span
+							font-size: 14px
+						strong
+							display: block
+							font-weight: 900
+							font-size: r(25px)
+	.fullcontent
+		padding-top: 30px
+		padding-bottom: 50px
+		border-bottom: 1px solid #e1e1e1
+		font-size: 14px
+	@media screen and ( max-width: 768px )
+		.briefcontent
+			.list
+				ul
+					margin-bottom: -20px
+					li
+						width: calc(40% - 30px)
+						border-left: 0 !important
+						margin-bottom: 20px
+	@media screen and ( max-width: 375.99px )
+		.briefcontent
+			.list
+				ul
+					li
+						width: 100%
+.project-other
+	padding-top: 40px
+	.section-title 
+		h2
+			font-size: r(25px)
+	.project-list
+		padding-top: 0
+		.project 
+			.btn-skew
+				right: -40px
+				span
+					margin-right: 25px
+			.title 
+				padding-right: 45px
+				p
+					font-size: 14px
+			.content
+				display: none
+			.name
+				line-height: r(30px)
+.project-detail
+	@media screen and ( min-width: 1200px )
+		>.uk-container
+			> .uk-grid
+				margin-left: -70px
+				> *
+					padding-left: 70px

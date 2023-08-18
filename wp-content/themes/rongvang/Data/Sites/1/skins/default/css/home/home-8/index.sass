@@ -1,0 +1,106 @@
+.home-8
+	background: #efefef
+	.news-list
+		.big-news
+			background: #fff
+			border-radius: 8px
+			overflow: hidden
+			.btn-skew
+				text-decoration: none
+				color: #fff
+			.img
+				a
+					+img-scale(100%)
+			.caption-wrapper
+				padding: 0 50px
+				display: flex
+				align-items: center
+				position: relative
+				.caption
+					p
+						margin: 0
+					.title
+						font-size: 17px
+						font-weight: 800
+						line-height: 22px
+						margin-bottom: 10px
+						a
+							+line(2)
+					time
+						font-size: 14px
+						line-height: 20px
+					.brief
+						padding-top: 20px
+						margin-top: 20px
+						font-size: 14px
+						line-height: 21px
+						border-top: 1px solid #959595
+						+line(7)
+		.side-news-list-wrapper
+			.uk-grid-margin
+				margin-top: 10px
+			.side-news-title
+				display: flex
+				align-items: center
+				padding: 15px 20px
+				background: #fff
+				border-radius: 5px 5px 0px 0px
+				box-shadow: 0px 8px 103px 0px rgba(0, 0, 0, 0.13)
+				margin-bottom: 10px
+			h4
+				margin-bottom: 0
+				font-size: 18px
+				font-weight: 800
+			.btn-view-all
+				background: #fff
+				border: 1px solid $xanh-1
+				color: $xanh-1 !important
+				font-size: 13px
+				width: 126px
+				height: 36px
+				margin: 0 0 0 auto
+				&:hover
+					background: $xanh-1
+					color: #fff !important
+			.side-news
+				display: flex
+				text-decoration: none
+				padding: 10px 20px
+				background: #fff
+				border-radius: 5px
+				align-items: center
+				transition: 0.3s all
+				.date
+					padding-right: 20px
+					text-align: center
+					border-right: 1px solid rgba($main-color, 0.5)
+					color: $main-color
+					display: flex
+					align-items: center
+					flex-direction: column
+					.day
+						display: block
+						font-size: r(35px)
+						font-weight: 800
+						line-height: 1
+					.month
+						font-size: 12px
+						white-space: nowrap
+						line-height: 17px
+				.title
+					padding-left: 20px
+					p
+						margin: 0
+						font-size: 14px
+						+line(2)
+				&:hover
+					background: $xanh-1
+					.date
+						color: #fff
+					.title
+						color: #fff
+	@media screen and ( max-width: 1025px )
+		.news-list
+			.big-news
+				.caption-wrapper
+					padding: 30px 30px 60px 30px

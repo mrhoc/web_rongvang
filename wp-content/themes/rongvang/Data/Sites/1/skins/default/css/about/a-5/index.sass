@@ -1,0 +1,78 @@
+.about-5
+	.section-title
+		margin-bottom: 20px
+	.section-desc
+		color: #fff
+		max-width: 770px
+		text-align: center
+		margin: 0 auto 10px
+	.tab-switcher
+		display: flex
+		justify-content: center
+		padding: 0 15px
+		ul
+			overflow-x: auto
+			list-style: none
+			display: flex
+			align-items: center
+			margin-bottom: 0
+			padding-left: 0
+			li
+				white-space: nowrap
+				+ li
+					margin-left: 15px
+				a
+					min-width: r(120px)
+					padding: 0 30px
+					height: 40px
+					display: flex
+					align-items: center
+					justify-content: center
+					border-radius: 40px
+					color: $xanh-1
+					background: white
+					font-size: r(14px)
+					font-weight: 800
+					text-decoration: none
+					transition: 0.3s all
+				&.uk-active
+					a
+						background: $main-color
+						color: #fff
+	.tabs-container
+		margin-top: 50px
+	.tab-content
+		background: #fff
+		padding: 40px 30px
+		border-radius: 8px
+	.network-list
+		max-height: 550px
+		padding-right: 17px
+		overflow-y: auto
+		&::-webkit-scrollbar
+			width: 4px
+			background: #d8d8d8
+		&::-webkit-scrollbar-thumb
+			background: $xanh-la-1
+		.item
+			padding-bottom: 30px
+			margin-bottom: 30px
+			border-bottom: 1px solid rgba(#666, 0.2)
+			&:last-child
+				margin-bottom: 0
+			p
+				margin: 0
+				font-size: 14px
+			.name
+				margin-bottom: 10px
+				text-transform: uppercase
+				color: $xanh-1
+				font-weight: 700
+	@media screen and ( max-width: 1025px )
+		.wrapper-1
+			order: 2
+		.wrapper-2
+			order: 1
+	@media screen and ( max-width: 576px )
+		.tab-content
+			padding: 20px

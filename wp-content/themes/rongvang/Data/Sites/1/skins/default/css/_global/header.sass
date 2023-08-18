@@ -1,0 +1,324 @@
+header
+	border-top: 9px solid $main-color
+	background: #f5f5f5
+	position: fixed
+	left: 0
+	top: 0
+	width: 100%
+	z-index: 999
+	transition: 0.3s all
+	&.minimal
+		@media screen and ( min-width: 1024px )
+			top: -49px
+			box-shadow: 0px 6px 9px -4px rgba(0,0,0,0.5)
+			.header-left
+				display: none
+			.header-right
+				width: 100%
+			.menu-nav
+				justify-content: space-between
+				padding-top: 10px
+	.logo
+		transition: 0.3s all
+	.header-wrap
+		padding: 10px 0
+		justify-content: space-between
+		// overflow: hidden
+	.top-nav
+		display: flex
+		align-items: center
+		justify-content: flex-end
+		
+	.top-nav-item
+		padding-left: 27px
+		border-left: 1px solid #e8e8e8
+		+ .top-nav-item
+			margin-left: 27px
+		.uk-drop
+			width: 200px 
+			top: 0 !important
+			background: #f5f5f5
+			margin: 0 !important
+	
+			p
+				color: #174168
+				margin: 0 
+				font-size: 12px
+				&::first-letter
+					text-transform: uppercase
+			h3
+				color: #174168
+				font-weight: 900
+				margin: 0
+				font-size: 18px
+				text-transform: uppercase
+			@media screen and ( max-width:1024px)
+				width: 220px
+				&.uk-open
+					display: flex
+					justify-content: center
+					align-items: center
+		a
+			font-size: 20px
+			text-decoration: none
+			line-height: 1
+	.hotline-wrapper,.share-wrapper
+		.uk-drop
+			@media screen and ( max-width:1024px)
+				background: #3c86c8
+				height: 100%
+	.hotline-wrapper
+		.uk-drop
+			flex-direction: column
+			align-items: flex-start !important
+		.hot-line-number
+			@media screen and ( max-width:1024px)
+				p
+					color: #ffffff
+				h3
+					color: #ffffff
+
+	.search-wrapper
+		.uk-drop
+			border-radius: 5px
+		.uk-toggle
+			@media screen and (min-width:1024.2px)
+				display: none !important
+		.uk-drop-laptop
+			display: none !important
+			@media screen and (min-width:1024px)
+				display: flex !important
+				width: 100%
+				justify-content: center
+				align-items: center
+				width: 100%
+		.searchbox
+			width: 100%
+			overflow: hidden
+			border: 1px solid #cdcdcd
+			display: flex
+			justify-content: space-between !important
+			align-items: center
+			height: 30px
+			border-radius: 5px
+			background: #ffffff
+			input
+				height: 100%
+				border: none
+				border-top-left-radius: 5px
+				border-bottom-left-radius: 5px
+				padding: 0 0 0 10px
+				&:focus
+					outline: none
+			button
+				width: 35px
+				height: 100%
+				border: none
+				background: #008c2e
+				color: #ffffff
+				border-top-right-radius: 5px
+				border-bottom-right-radius: 5px
+				font-size: 18px
+		a
+			font-size: 24px
+	.language-wrapper
+		a 
+			display: block
+			height: 30px
+	.header-social-wrapper
+		p
+			display: inline-block
+			@media screen and ( max-width:1024px)
+				color: #ffffff !important
+				
+		.header-social-items
+			display: inline-flex
+			a
+				display: flex
+				width: 28px
+				height: 28px
+				display: flex
+				justify-content: center
+				align-items: center
+				border-radius: 50%
+				margin-left: 5px
+				@media screen and ( max-width:1024px)
+					margin-left: 20px
+				&:nth-child(1)
+					background: #4664a5
+				&:nth-child(2)
+					background: #f70e16
+				&:nth-child(3)
+					background: #0171ae
+				span
+					color: #fff
+					font-size: 16px
+	.menu-nav
+		list-style: none
+		padding-left: 0
+		margin-bottom: 0
+		display: flex
+		padding-top: 25px
+		li
+			+ li
+				margin-left: r(40px)
+			a
+				font-size: r(14px)
+				text-transform: uppercase
+				font-weight: 800
+				&:first-letter
+					text-transform: uppercase
+			&.active,&:hover
+				a
+					color: $main-color
+					text-decoration: none
+		.uk-dropdown
+			padding: 0
+			min-width: 240px
+			border-bottom: 5px solid #9c1519
+		.uk-dropdown-nav
+			li
+				margin: 0
+				transition: .3s all ease-in-out
+				position: relative
+				overflow: hidden
+				height: 50px
+				border-bottom: 1px solid #e8e8e8
+				&:last-child
+					border-bottom: 1px solid  transparent
+				&:before
+					font-family: 'Material Design Icons'
+					content: '\f142'
+					font-size: 30px
+					display: block
+					position: absolute
+					right: 0
+					bottom: 0
+					height: 95%
+					color: #ffffff
+					pointer-events: none
+				&:hover
+					background: #9c1519
+					a
+						color: #ffffff !important
+				a
+					border-bottom: 1px solid #cacaca
+					transition: .3s all ease-in-out
+					padding: 0 10px 0 20px
+					color: #333
+					font-size: 1rem
+					height: 50px
+					padding: 12px 20px
+					overflow: hidden
+					font-weight: 400
+					width: 100%
+					margin: 0
+					text-transform: none
+					display: block
+					align-items: center
+					&:first-letter
+						text-transform: uppercase !important
+					&::first-letter
+						text-transform: uppercase !important
+	.mobile-menu-toggle
+		display: none
+	@media screen and ( max-width: 1200px )
+		.menu-nav
+			li
+				+ li
+					margin-left: r(30px)
+				a
+					font-size: r(13px)
+	@media screen and ( max-width: 1025px )
+		border-top: 0
+		.mobile-menu-toggle
+			display: flex
+			align-items: center
+			text-align: right
+			margin-left: auto
+			height: 100%
+			span
+				font-size: 24px
+		.logo
+			img
+				max-width: 60px
+		.top-nav
+			position: fixed
+			bottom: 0
+			left: 0
+			width: 100%
+			justify-content: flex-start
+			padding: 5px 0
+			background: #3c86c8
+		.top-nav-item
+			width: 25%
+			padding-left: 0
+			border-left: 0
+			height: 40px
+			display: flex
+			align-items: center
+			justify-content: center
+			+ .top-nav-item
+				margin-left: 0
+			a
+				color: #fff
+			
+#modal-search
+	@media screen and (min-width:1024.2px)
+		display: none !important
+	.uk-modal-close-full
+		svg
+			width: 30px
+			height: 30px
+	.uk-search
+		display: flex
+		position: relative
+		padding: 0 15px
+		input
+			border-bottom: 2px solid #e5e5e5
+			padding-right: 48px
+			color: #333
+		button
+			background: #fff
+			color: #333
+			font-size: 36px
+			border: 0
+			position: absolute
+			right: 0
+			top: 50%
+			transform: translateY(-50%)
+			display: flex
+			align-items: center
+			justify-content: center
+			span
+				line-height: 1
+	@media (max-width: 576px)
+		.uk-search
+			width: auto
+
+#mobile-menu-offcanvas
+	.uk-offcanvas-bar
+		background: #fff
+	.menu-nav
+		list-style: none
+		padding-left: 0
+		margin-bottom: 0
+		li
+			line-height: 36px
+			a
+				font-size: 15px
+				text-transform: uppercase
+				font-weight: 800
+				text-decoration: none
+	.uk-dropdown-nav
+		li
+			padding:  0
+			margin: 0
+			a
+				color: #333
+				padding: 0
+				font-size: 1rem
+				font-weight: 400
+				margin: 0
+				&:first-letter
+					text-transform: uppercase !important

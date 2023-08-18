@@ -1,0 +1,29 @@
+.subnav-wrapper
+	display: flex
+	justify-content: center
+	overflow-x: auto
+	background: $xanh-2
+	padding: 0 15px
+	.uk-subnav
+		margin-bottom: 0
+		margin-left: 0
+		flex-wrap: nowrap
+		li
+			padding-left: 0
+			a
+				display: flex
+				min-height: 50px
+				align-items: center
+				padding: 0 20px
+				color: #fff
+				font-size: 13px
+				font-weight: 700
+				transition: 0.3s all
+			&.uk-active,&.active,&:hover
+				a
+					background: $xanh-la-1
+	@media screen and ( max-width: 1025px )
+		justify-content: flex-start
+		&.uk-sticky
+			top: 80px !important
+		

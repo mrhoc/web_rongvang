@@ -1,0 +1,132 @@
+.development-4
+	background-image: url(../img/development/bg-4.jpg)
+	background-repeat: no-repeat
+	background-size: cover
+	background-position: center center
+	.icon-slider
+		position: relative
+		padding: 0 60px
+		.line
+			position: absolute
+			height: 1px
+			top: 50%
+			left: 50%
+			transform: translate(-50%, -50%)
+			background: $main-color
+		.item
+			display: flex
+			flex-direction: column
+			justify-content: center
+			align-items: center
+			height: 200px
+			.icon
+				transition: 0.3s all
+				img
+					max-width: 50px
+			&:hover
+				.bevel-corner
+					.bevel
+						border-color: $main-color
+					.bevel-content
+						background: $main-color
+				.icon
+					transform: scale(1.2)
+					img
+						filter: brightness(0) invert(100%)
+		.swiper-slide-thumb-active
+			.item
+				.bevel-corner
+					.bevel
+						border-color: $main-color
+					.bevel-content
+						background: $main-color
+				.icon
+					transform: scale(1.2)
+					img
+						filter: brightness(0) invert(100%)
+	.bevel-corner
+		transform: rotate(45deg)
+		position: relative
+		.bevel
+			border-width: 10px
+			border-color: #fff
+			border-style: solid
+		.bevel-content
+			width: 94.75px
+			height: 75px
+			background: #fff
+			margin: -1px 0
+			display: flex
+			align-items: center
+			justify-content: center
+			transition: 0.3s all
+		.bevel
+			height: 0px
+			width: 75px
+			transition: 0.3s all
+			&.tr, &.tl 
+				border-top: 0
+			&.br, &.bl 
+				border-bottom: 0
+			&.tr, &.br 
+				border-right-color: transparent !important
+			&.tl, &.bl 
+				border-left-color: transparent !important
+		.content
+			transform: rotate(-45deg)
+	.content-slider
+		padding: 0 100px
+		position: relative
+		margin-top: 40px
+		.uk-grid
+			align-items: center
+		.item
+			padding: 80px 100px
+			background: $xanh-1
+			border-radius: 10px
+		.img
+			img
+				width: 100%
+		.content
+			color: #fff
+			font-size: 16px
+			p
+				margin-bottom: 0
+		.uk-slidenav
+			z-index: 20
+			&.swiper-prev
+				left: 100px
+			&.swiper-next
+				right: 100px
+	@media screen and ( max-width: 768px )
+		.icon-slider
+			padding: 0
+		.content-slider
+			padding: 0
+			.item
+				padding: 30px 50px
+			.uk-slidenav
+				&.swiper-prev
+					left: 0
+				&.swiper-next
+					right: 0
+
+.section-item-list
+	.section-item
+		.content
+			h2
+				font-size: r(35px)
+				line-height: r(45px)
+				font-weight: 700
+			.fullcontent
+				font-size: 14px
+		&:nth-child(n+2)
+			.content
+				h2
+					color: #fff
+				color: #fff
+		&:nth-child(2n+1)
+			.uk-grid
+				flex-direction: row-reverse
+			.content
+				text-align: right

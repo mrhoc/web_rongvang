@@ -1,0 +1,115 @@
+.product-item
+	display: block
+	text-align: center
+	background: #fff
+	padding: 30px 0
+	border-radius: 8px
+	&:hover
+		text-decoration: none
+		*
+			text-decoration: none
+	.caption
+		padding-top: 30px
+		p
+			margin: 0
+		.name,.wattage
+			font-size: r(17px)
+			font-weight: 800
+			line-height: r(20px)
+			+line(1)
+		.view-more
+			display: flex
+			align-items: center
+			justify-content: center
+			width: r(130px)
+			height: 30px
+			border-radius: 5px
+			border: 1px solid #959595
+			font-size: 12px
+			line-height: 1
+			margin: 30px auto 0
+			transition: 0.3s all
+	&:hover
+		.caption
+			.view-more
+				background: $main-color
+				border: 1px solid transparent
+				color: #fff
+
+.product-item-list
+	display: flex
+	box-shadow: -1.928px 2.298px 24.75px 0.25px rgba(0, 0, 0, 0.1)
+	padding: 30px
+	border-radius: 8px
+	padding-left: 70px
+	.caption
+		padding-left: 30px
+	.name
+		font-size: r(17px)
+		font-weight: 800
+		line-height: r(20px)
+		+line(1)
+	.status-wrapper
+		display: flex
+		align-items: center
+		.status
+			padding-left: 30px
+			font-size: 13px
+			display: flex
+			align-items: center
+			span
+				margin-left: 2.5px
+				color: #999999
+			&.in-stock
+				&:before
+					content: ''
+					width: 6px
+					height: 6px
+					border-radius: 50%
+					background: $xanh-la-1
+					margin-right: 15px
+	.content
+		padding-top: 25px
+		table
+			font-size: 13px
+			tr
+				td
+					padding: 5px 0
+					&:first-child
+						color: #666666
+						padding-right: 20px
+	.view-more
+		margin-left: auto
+		span
+			display: flex
+			align-items: center
+			justify-content: center
+			width: r(130px)
+			height: 30px
+			border-radius: 5px
+			border: 1px solid #959595
+			font-size: 12px
+			line-height: 1
+			transition: 0.3s all
+	&:hover
+		text-decoration: none
+		color: inherit
+		.view-more
+			span
+				background: $main-color
+				border: 1px solid transparent
+				color: #fff
+	@media screen and ( max-width: 768px )
+		flex-wrap: wrap
+		padding: 30px
+		.view-more
+			width: 100%
+			margin-top: 30px
+	@media screen and ( max-width: 576px )
+		.img
+			width: 100%
+			text-align: center
+		.caption
+			width: 100%
+			padding-left: 0
+			padding-top: 30px

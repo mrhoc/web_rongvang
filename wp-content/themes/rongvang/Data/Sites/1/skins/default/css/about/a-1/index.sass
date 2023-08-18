@@ -1,0 +1,106 @@
+.about-1
+	.section-desc
+		color: #fff
+		margin-bottom: 60px
+		p
+			margin-bottom: 0
+	.history-slider
+		padding-top: 60px
+		position: relative
+		.swiper-prev,.swiper-next
+			position: absolute
+			left: 50%
+			color: #fff
+			transform: translateX(-50%)
+			font-size: 20px
+			cursor: pointer
+		.swiper-prev
+			top: -30px
+		.swiper-next
+			bottom: -30px
+		.line
+			width: 5px
+			height: 100%
+			background: #e3e3e3
+			position: absolute
+			left: 50%
+			top: 0px
+			transform: translateX(-50%)
+		.swiper-container
+			max-height: 1000px
+		.item
+			.wrapper-empty
+				width: 8.33%
+			.img
+				+img-scale(270 / 409 * 100%)
+			.dot-wrapper
+				padding-top: 80px
+			.dot
+				cursor: pointer
+				width: 13px
+				height: 13px
+				background: #fff
+				border-radius: 50%
+				margin: 0 auto
+				border: 3px solid #fff
+			.content-wrapper
+				color: #fff
+				.title
+					font-size: r(28px)
+					font-weight: 800
+				ul
+					padding-left: 1rem
+					font-size: 14px
+					max-height: 200px
+					overflow-y: auto
+					padding-right: 1rem
+					li
+						+ li
+							margin-top: 20px
+					&::-webkit-scrollbar
+						width: 5px
+						background: #fff
+					&::-webkit-scrollbar-thumb
+						background: $xanh-la-1
+		.swiper-slide
+			&:nth-child(2n)
+				.item
+					flex-direction: row-reverse
+			&.swiper-slide-active
+				.item
+					.dot
+						border: 3px solid $main-color
+	@media screen and ( max-width: 1025px )
+		.wrapper-empty,.dot-wrapper,.line
+			display: none
+		.history-slider
+			padding: 0
+			.swiper-container
+				height: auto
+				max-height: none
+			.swiper-prev,.swiper-next
+				left: auto
+				top: 30%
+				transform: translateY(-50%)
+				z-index: 10
+				height: 60px
+				width: 40px
+				display: flex
+				align-items: center
+				justify-content: center
+			.swiper-prev
+				left: 0
+				span:before
+					content: '\ec3b'
+			.swiper-next
+				right: 0
+				bottom: auto
+				span:before
+					content: '\ec3c'
+			.item
+				.img
+					margin-bottom: 20px
+				.content-wrapper
+					ul
+						padding-left: 16px
+						max-height: none

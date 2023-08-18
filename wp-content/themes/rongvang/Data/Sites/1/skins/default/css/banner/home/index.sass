@@ -1,0 +1,41 @@
+.banner-home
+	.content-overlay
+		bottom: 120px
+		.content
+			max-width: 480px
+			*
+				color: #fff
+				margin: 0
+			.title
+				font-weight: 900
+				font-size: r(55px)
+				text-transform: uppercase
+				line-height: r(65px)
+			.desc
+				strong
+					display: block
+					font-weight: 800
+					text-transform: uppercase
+					font-size: r(20px)
+					margin-bottom: 15px
+				p
+					font-size: 14px
+	.banner-pagination
+		bottom: 80px
+		.uk-dotnav
+			justify-content: flex-start
+			li
+				a
+					width: r(30px)
+					height: 3px
+					border-radius: 0
+					border: 0
+					background: #fff
+					transition: 0.5s all
+				&.uk-active
+					a
+						width: r(80px)
+						background: $main-color
+	@media screen and ( max-width: 576px )
+		.content-overlay
+			padding-bottom: 40px

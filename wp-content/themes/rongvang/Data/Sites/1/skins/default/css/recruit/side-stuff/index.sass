@@ -1,0 +1,75 @@
+.recruit-sidenav
+	padding-left: 70px
+	.recruit-sidenav-item
+		padding: 20px
+		background: #f7f7f7
+		overflow: hidden
+		+ .recruit-sidenav-item
+			margin-top: 20px
+		&.recruit-apply-info
+			background: $xanh-1
+			padding: 60px 0 20px
+	.sidenav-title
+		position: relative
+		&:before
+			position: absolute
+			content: ''
+			top: 0
+			height: 100%
+			width: 3px
+			background: $xanh-la-1
+			left: -20px
+		> *
+			font-size: 18px
+			font-weight: 800
+			text-transform: uppercase
+	.recruit-apply-info
+		color: #fff
+		ul
+			padding: 0 20px 20px
+			margin-bottom: 0
+			list-style: none
+			border-bottom: 1px solid #578bbb
+			li
+				display: flex
+				p
+					font-size: 14px
+					strong
+						display: block
+						text-transform: uppercase
+				&:before
+					font-family: Material Design Icons
+					content: '\f142'
+					margin-right: 10px
+		.btn-download
+			display: flex
+			padding: 20px 20px 0
+			text-transform: uppercase
+			font-size: 15px
+			color: #fff
+			text-decoration: none
+			em
+				margin-right: 20px
+	.recruit-other-list
+		ul
+			list-style: none
+			padding-left: 0
+			margin: 0
+			li
+				+ li
+					padding-top: 15px
+					margin-top: 15px
+					border-top: 1px solid #ebebeb
+				.item
+					.caption
+						p
+							margin: 0
+							font-size: 14px
+							font-weight: 600
+						a
+							+line(3)
+						.deadline
+							color: #666666
+							font-size: 13px
+	@media screen and ( max-width: 1025px )
+		padding-left: 0

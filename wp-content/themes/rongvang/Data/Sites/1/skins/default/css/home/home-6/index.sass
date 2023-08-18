@@ -1,0 +1,152 @@
+.home-6
+	margin-top: -100px
+	.section-title
+		margin-bottom: 0
+	.heading
+		justify-content: space-between
+		align-items: center
+		margin-bottom: 30px
+	.heading-right
+		display: flex
+		align-items: center
+		.btn-view-all
+			margin-left: 9px
+			font-size: 14px
+			min-width: 165.5px
+			background: #fff
+			color: $xanh-1 !important
+			border: 1px solid $xanh-1
+	.tab-switcher
+		ul
+			list-style: none
+			padding-left: 0
+			margin-bottom: 0
+			display: flex
+			li
+				+ li
+					margin-left: 9px
+				a
+					min-width: 165.5px
+					height: 45px
+					display: flex
+					align-items: center
+					justify-content: center
+					background: #fff
+					border-radius: 22.5px
+					font-size: 14px
+					font-weight: 800
+					text-decoration: none
+					color: $xanh-1
+					text-transform: uppercase
+					border: 1px solid $xanh-1
+				&.uk-active
+					a
+						background: $xanh-la-1
+						color: #fff
+						border: 1px solid transparent
+	.projects-switcher
+		.uk-grid
+			margin-left: -15px
+			> *
+				padding-left: 15px
+		.project
+			.img
+				+img-scale(546 / 819 * 100%)
+		.uk-slidenav
+			background: transparent
+			box-shadow: none
+			color: #aaaaa2
+			font-size: 60px
+			z-index: 7
+			width: 6rem
+			&.uk-position-center-left,&.uk-position-center-right
+				transform: translateY(-50%)
+			&.uk-position-center-left
+		.uk-slider-items
+			li
+				&.uk-active
+					.project
+						.caption
+							display: block !important
+				&:not(.uk-active)
+					.project
+						.caption
+							opacity: 0 !important
+				.project
+					position: relative
+					.caption
+						width: 100%
+						max-width: 317px
+						top: 50%
+						left: 0
+						transform: translate(0, -50%)
+						background: #fff
+						padding: 40px 40px 60px 40px
+						border-radius: 8px
+						box-shadow: -1.928px 2.298px 91.08px 0.92px rgba(0, 0, 0, 0.14)
+						overflow: hidden
+						opacity: 0
+						z-index: 6
+						// display: none !important
+					.name
+						font-size: r(25px)
+						line-height: r(20px)
+						color: $main-color
+						font-weight: 800
+						margin-bottom: 30px
+						padding-bottom: 20px
+						border-bottom: 1px solid #cdcdcd
+					.content
+						font-size: 14px
+						p
+							margin: 0
+					&:before
+						position: absolute
+						content: ''
+						width: 100%
+						height: 100%
+						top: 0
+						left: 0
+						background: #000
+						opacity: 0.5
+						z-index: 5
+				&.uk-active
+					.project
+						.caption
+							transform: translate(-50%, -50%)
+							opacity: 1
+						&:before
+							opacity: 0
+	@media screen and ( max-width: 1025px )
+		.heading
+			flex-direction: column
+		.section-title
+			margin-bottom: 15px
+			text-align: center
+		.heading-right
+			overflow-x: auto
+			max-width: 100%
+		.projects-switcher
+			.uk-slider-items
+				li
+					.project
+						display: flex
+						flex-wrap: wrap
+						> *
+							width: 100%
+						&:before
+							z-index: 8
+						.caption
+							position: relative !important
+							transform: none !important
+							max-width: 100%
+							border-radius: 0
+							padding: 30px 30px 50px 30px
+							opacity: 1 !important
+	@media screen and ( max-width: 576px )
+		margin-top: -140px
+		.projects-switcher
+			padding: 0 15px
+			.uk-slidenav
+				width: 2.5rem
+				font-size: 40px

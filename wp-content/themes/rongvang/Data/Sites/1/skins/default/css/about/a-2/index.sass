@@ -1,0 +1,130 @@
+.about-2
+	padding-bottom: 350px
+	
+	.content-wrapper
+		padding-top: 60px
+		+ .content-wrapper
+			display: none
+		.title
+			display: flex
+			align-items: center
+			margin-bottom: r(40px)
+			.icon
+				display: flex
+				align-items: center
+				justify-content: center
+				border-radius: 50%
+				width: 31px
+				height: 31px
+				background: $xanh-1
+				color: #fff
+			p
+				margin: 0
+				padding-left: 20px
+				font-size: r(35px)
+				text-transform: uppercase
+				font-weight: 800
+		.content
+			font-size: 14px
+			i
+				text-transform: uppercase
+				color: #666666
+				font-weight: 600
+	.img-list-wrapper
+		display: flex
+		position: relative
+		.img-list
+			display: flex
+			.img-item
+				position: relative
+				.text
+					position: absolute
+					top: 50%
+					left: 50%
+					transform: translate(-50%, -50%)
+					text-align: center
+					p
+						font-size: r(20px)
+						color: #fff
+						text-transform: uppercase
+						font-weight: 900
+						margin-bottom: 0
+					span
+						display: flex
+						align-items: center
+						justify-content: center
+						width: r(40px)
+						height: r(40px)
+						background: $xanh-la-1
+						border-radius: 50%
+						color: #fff
+						margin: 5px auto 0
+						font-size: r(35px)
+						line-height: r(40px)
+						small
+							display: block
+							height: r(42.5px)
+				+ .img-item
+					margin-left: 30px
+				&.active,&:hover
+					.text
+						p
+							color: #333
+		.top-list
+			position: relative
+			z-index: 1
+		.bottom-list
+			z-index: 0
+			position: absolute
+			top: calc(100% + 30px)
+			left: 0
+			transform: translate(calc(25% + 7.5px), calc(-50% - 7.5px))
+			.img-item
+				&:last-child
+					pointer-events: none
+					.text
+						display: none
+	@media screen and ( max-width: 1279.98px )
+		.img-list-wrapper
+			.img-list
+				.img-item
+					.img
+						img
+							max-width: 240px
+	@media screen and ( max-width: 1025px )
+		padding-bottom: 100px
+		.content-wrapper
+			padding-top: 0
+		.wrapper-1
+			order: 2
+		.wrapper-2
+			order: 1
+		.img-list-wrapper
+			margin-bottom: 200px
+	@media screen and ( max-width: 768px )
+		.img-list-wrapper
+			flex-wrap: wrap
+			justify-content: center
+			margin-bottom: 30px
+			.img-list
+				.img-item
+					.img
+						img
+							max-width: 100%
+			.bottom-list
+				margin-top: 20px
+				width: auto !important
+				height: auto !important
+				position: static
+				transform: none
+	@media screen and ( max-width: 375.99px )
+		.img-list-wrapper
+			.img-list
+				.img-item
+					+ .img-item
+						margin-left: 10px
+					.text
+						p
+							font-size: 13px
+			.bottom-list
+				margin-top: 10px

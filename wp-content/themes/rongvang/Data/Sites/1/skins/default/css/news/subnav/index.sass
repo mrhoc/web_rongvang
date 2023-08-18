@@ -1,0 +1,34 @@
+.news-subnav
+	padding: 70px 40px
+	.subnav
+		margin: 0 auto
+		display: flex
+		justify-content: center
+	ul
+		list-style: none
+		box-shadow: 0px 0px 46px 0px rgba(0, 0, 0, 0.07)
+		padding: 0 
+		margin-bottom: 0
+		border-radius: 5px
+		display: flex
+		overflow-x: auto
+		li
+			display: inline-block
+			+ li
+				border-left: 1px solid #ebebeb
+			a
+				min-height: 51px
+				display: flex
+				align-items: center
+				justify-content: center
+				padding: 0 15px
+				font-size: 14px
+				font-weight: 700
+				text-transform: uppercase
+				text-decoration: none
+				transition: all 0.3s
+				white-space: nowrap
+			&.active,&:hover,&.uk-active
+				a
+					background: $xanh-la-1
+					color: #fff

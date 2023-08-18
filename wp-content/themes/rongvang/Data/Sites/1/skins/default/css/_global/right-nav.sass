@@ -1,0 +1,50 @@
+.right-nav-wrapper
+	position: fixed
+	right: -190px
+	bottom: 0
+	transform: translateY(-50%)
+	z-index: 500
+	transition: 0.3s all
+	ul
+		margin: 0
+		padding: 0
+		list-style: none
+		background: #fff
+		border-radius: 15px 0 0 15px
+		overflow: hidden
+		li
+			+ li
+				margin-top: 1px
+			a
+				background: $xanh-1
+				color: #fff
+				display: flex
+				align-items: center
+				text-decoration: none
+				transition: 0.3s all
+				.icon
+					display: inline-flex
+					width: 50px
+					height: 50px
+					align-items: center
+					justify-content: center
+					border-right: 1px solid rgba(#000 , 0.2)
+				.label
+					font-size: 12px
+					padding: 0 13px
+					width: 164px
+					font-weight: 600
+				&:hover
+					background: $main-color
+	@media screen and ( min-width: 1025px )
+		&:hover
+			right: 0
+	@media screen and ( max-width: 768px )
+		ul
+			li
+				a
+					.icon
+						width: 40px
+						height: 40px
+						img
+							max-width: 16px
