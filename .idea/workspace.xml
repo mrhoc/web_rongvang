@@ -2,202 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b960ea92-988f-48ba-9401-a97e6458ac2e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/App_Themes/toolbar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/ClientScript/fancybox/jquery.fancybox.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/Banner/dien-ap-mai-0-dong-mo-hinh-esco.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/Banner/dien-ap-mai-cho-doanh-nghiep-tong-thau-epc.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/Banner/gói-ưu-đãi-hộ-gia-đình.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/Banner/tuyển-đại-lý.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/chung-nhan-xanh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/co-op-mart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/co2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/dam-sen-park.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/de-heus-logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/dji_0068.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/dji_0191.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/dji_0514.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/du-an-co-op-mart-quan-7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/duy-tan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/galaxy-studio.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/giam-tieng-on.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/img-new.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/img-new.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/kh-luong-van-tuoi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/kh-phuong-mai.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/kh-q.tân-bình-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/kh-quận-10---1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/kh-quận-11---1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/kizuna.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/kymdan-lap-dien-mat-troi-mai-nha.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/kymdan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/lg1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/lg2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/lg3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/lien-anh-rubber.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/logo1a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/logo3a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/loi-ich1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/nang-tam-thuong-hieu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/no-xanh0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/novaland.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/on-dinh-nguon-dien.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/sacom-chíp-sáng.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/sense-city.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/tanimex.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/tin-nghia-corp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/ttc-edu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/ttc-energy-campuchia-dien-mat-troi-ap-mai-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/ttc-energy-đạt-giải-thưởng-top-50-dn-pt-bền-vững-2023.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/ttctayninh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/News/vng.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/Product/1tam-pin-nang-luong-mat-troi-longi-560-580-wp-hi-mo-6-(2).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/Product/3000-6000-tl3-s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/Product/bo-chuyen-dien-pvs-sx-100-kw-3-phase.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/Product/bo-chuyen-dien-sungrow-sg110cx-3-phase.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/Product/bo-chuyen-dien-sungrow-sg5k-d--1-phase.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/Product/bộ-chuyển-điện-growatt-1p-min-5000-tl-x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/Product/fronius_frn-tauroeco100-3-d.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/Product/growatt-2500-5500-mtl-s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/Product/growatt-4000-6000ue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/Product/inverter-growatt-750-3000-s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/Product/inverter-hòa-lưới-125kw-–-growatt-max-125ktl3-lv.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/Product/inverter-sma-110kw-(sunny-tripower-core-2).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/Product/inverter-sma-50kw-sunny-tripower-core-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/Product/inverter-sma-stp-25000tl-(sma-25-kw).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/Product/inverter-sungrow-sg125cxp2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/Product/max-80ktl3_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/Product/may-phat-dien-ups-ak1000-mini-nang-luong-mat-troi-supercha.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/Product/pin-nang-luong-mat-troi-longi-425-455wp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/Product/pin-nlmt-canadian-405wp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/Product/pin-risen-555w.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/Product/pin-risen-645-670wp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/media/default/bocongthuong.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/1.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/css/custome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/flags/england.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/flags/europe.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/flags/france.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/flags/germany.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/flags/italy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/flags/netherlands.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/flags/portugal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/flags/russia.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/flags/spain.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/flags/world.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/leagues/bundesliga.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/leagues/champions-league.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/leagues/championship.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/leagues/eredivisie.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/leagues/europa-league.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/leagues/friendly.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/leagues/la-liga.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/leagues/liga-mx.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/leagues/ligue-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/leagues/placeholder.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/leagues/premier-league.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/leagues/primeira-liga.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/leagues/serie-a.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/leagues/super-lig.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/leagues/world-cup.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/site/2023_logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/site/buymeacoffee.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/site/logo-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/site/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/site/logomastersoccer.live.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/teams/109.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/teams/113.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/teams/13258.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/teams/14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/teams/18.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/teams/19.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/teams/214.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/teams/277.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/teams/2930.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/teams/3321.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/teams/3468.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/teams/37.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/teams/44.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/teams/450.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/teams/503.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/teams/510.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/teams/591.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/teams/597.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/teams/6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/teams/625.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/teams/676.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/teams/6789.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/teams/68.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/teams/683.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/teams/690.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/teams/7980.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/teams/8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/teams/83.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/teams/9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/img/video-818.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/js/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/assets/js/style.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/skins/default/css/core.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/skins/default/css/core.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/skins/default/css/main.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/skins/default/css/main.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/skins/default/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/skins/default/img/logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/front-page.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/front-page.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/templates/acore/core.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/templates/acore/function.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/templates/frontend/function.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/templates/frontend/resources/fonts/HTVietNam/Baomoi-SemiBold_gdi.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/templates/frontend/resources/fonts/HTVietNam/Baomoi_gdi.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/templates/frontend/resources/fonts/font-anwesome-4.4.0/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/templates/frontend/resources/function.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/templates/frontend/resources/img/bg-01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/templates/frontend/resources/img/bg-02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/templates/frontend/resources/img/bg-03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/templates/frontend/resources/img/bg-heading.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/templates/frontend/resources/img/bg-rule.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/templates/frontend/resources/img/double-line.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/templates/frontend/resources/img/icon-01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/templates/frontend/resources/img/icon-02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/templates/frontend/resources/img/icon-03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/templates/frontend/resources/img/icon-phone.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/templates/frontend/resources/img/icon_email (1).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/templates/frontend/resources/img/icon_email.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/templates/frontend/resources/img/icon_phone_small.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/templates/frontend/resources/img/icon_search.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/templates/frontend/resources/img/landline.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/templates/frontend/resources/img/location.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/templates/frontend/resources/img/social.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/templates/frontend/resources/library/css/library.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/templates/frontend/resources/library/css/reset.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/templates/frontend/resources/library/js/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/templates/frontend/resources/library/js/library.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/templates/frontend/resources/plugins/Readmore/readmore.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/templates/frontend/resources/plugins/lightslider-master/dist/css/lightslider.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/templates/frontend/resources/plugins/lightslider-master/dist/js/lightslider.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/templates/frontend/resources/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/templates/frontend/resources/uikit/css/components/slideshow.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/templates/frontend/resources/uikit/css/uikit.modify.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/templates/frontend/resources/uikit/js/components/accordion.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/templates/frontend/resources/uikit/js/components/lightbox.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/templates/frontend/resources/uikit/js/components/slider.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/templates/frontend/resources/uikit/js/components/slideshow.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/templates/frontend/resources/uikit/js/components/sticky.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/templates/frontend/resources/uikit/js/uikit.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/uploads/images/bo-ban-ghe-sofa-go-soi-nga-hien-dai-gia-re-gleehome-gsg40.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/uploads/images/he-thong/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/uploads/images/slide/phong-khach-glee-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/uploads/images/slide/phong-khach-glee-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/uploads/images/slide/phong-khach-glee-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/uploads/images/slide/phong-khach-glee-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/uploads/images/slide/phong-khach-glee-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/uploads/images/thiet-ke-noi-nhat-chung-cu-royal-gleehome-1-.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/uploads/images/thiet-ke-noi-that-gleehome-17-.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/uploads/images/thiet-ke-noi-that-gleehome-3-.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/uploads/images/thiet-ke-noi-that-gleehome-9-.jpg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -215,53 +23,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/rongvang/front-page.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
-              <caret line="1871" column="58" lean-forward="true" selection-start-line="1871" selection-start-column="58" selection-end-line="1871" selection-end-column="58" />
+            <state relative-caret-position="259">
+              <caret line="47" column="91" selection-start-line="47" selection-start-column="91" selection-end-line="47" selection-end-column="91" />
               <folding>
                 <element signature="n#title#0;n#head#0;n#html#0;n#!!top" />
-                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#2;n#ul#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#3;n#ul#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#li#3;n#ul#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#2;n#ul#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#3;n#ul#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#li#3;n#ul#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#4;n#ul#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#li#4;n#ul#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#2;n#ul#0;n#div#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#3;n#ul#0;n#div#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#li#3;n#ul#0;n#div#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#4;n#ul#0;n#div#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#li#4;n#ul#0;n#div#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#2;n#ul#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#3;n#ul#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#li#3;n#ul#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#2;n#ul#0;n#div#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#section#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#section#1;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="e#24111#24117#0#HTML" expanded="true" />
@@ -428,6 +197,27 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/skins/default/css/core.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="145" column="22" selection-start-line="145" selection-start-column="16" selection-end-line="145" selection-end-column="22" />
+              <folding>
+                <element signature="e#52250#54482#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/skins/default/css/main.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="216" column="40" selection-start-line="216" selection-start-column="40" selection-end-line="216" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/rongvang/header.php">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -439,7 +229,20 @@
       <find>/Data/Sites/1/News</find>
       <find>/Data/Sites/1/Product/</find>
       <find>img-new</find>
+      <find>../fonts</find>
+      <find>averta</find>
+      <find>â˜žAverta</find>
+      <find>html</find>
+      <find>tuye</find>
+      <find>font-family: &quot;Averta</find>
+      <find>Averta</find>
+      <find>Trang chủ</find>
     </findStrings>
+    <replaceStrings>
+      <replace>../Data/Sites/1/skins/default/fonts</replace>
+      <replace>Averta</replace>
+      <replace>/News/</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -448,6 +251,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/wp-content/themes/rongvang/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/skins/default/css/core.min.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/skins/default/css/main.min.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/rongvang/front-page.php" />
       </list>
     </option>
@@ -535,7 +340,7 @@
               <item name="Data" type="462c0819:PsiDirectoryNode" />
               <item name="Sites" type="462c0819:PsiDirectoryNode" />
               <item name="1" type="462c0819:PsiDirectoryNode" />
-              <item name="News" type="462c0819:PsiDirectoryNode" />
+              <item name="skins" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="web_rongvang" type="b2602c69:ProjectViewProjectNode" />
@@ -546,7 +351,21 @@
               <item name="Data" type="462c0819:PsiDirectoryNode" />
               <item name="Sites" type="462c0819:PsiDirectoryNode" />
               <item name="1" type="462c0819:PsiDirectoryNode" />
-              <item name="Product" type="462c0819:PsiDirectoryNode" />
+              <item name="skins" type="462c0819:PsiDirectoryNode" />
+              <item name="default" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web_rongvang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web_rongvang" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="rongvang" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+              <item name="Sites" type="462c0819:PsiDirectoryNode" />
+              <item name="1" type="462c0819:PsiDirectoryNode" />
+              <item name="skins" type="462c0819:PsiDirectoryNode" />
+              <item name="default" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -584,12 +403,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1692263621636</updated>
-      <workItem from="1692263623745" duration="5777000" />
+      <workItem from="1692263623745" duration="8977000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5777000" />
+    <option name="totallyTimeSpent" value="8977000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="42" width="1936" height="1048" extended-state="6" />
@@ -624,55 +443,36 @@
     <entry file="file://$PROJECT_DIR$/wp-content/themes/rongvang/header.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/skins/default/css/core.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="145" column="22" selection-start-line="145" selection-start-column="16" selection-end-line="145" selection-end-column="22" />
+          <folding>
+            <element signature="e#52250#54482#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/skins/default/css/main.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="216" column="40" selection-start-line="216" selection-start-column="40" selection-end-line="216" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/rongvang/Data/Sites/1/skins/default/img/logo.png.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/rongvang/front-page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="1871" column="58" lean-forward="true" selection-start-line="1871" selection-start-column="58" selection-end-line="1871" selection-end-column="58" />
+        <state relative-caret-position="259">
+          <caret line="47" column="91" selection-start-line="47" selection-start-column="91" selection-end-line="47" selection-end-column="91" />
           <folding>
             <element signature="n#title#0;n#head#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#2;n#ul#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#3;n#ul#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#3;n#ul#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#2;n#ul#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#3;n#ul#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#3;n#ul#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#4;n#ul#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#4;n#ul#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#2;n#ul#0;n#div#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#3;n#ul#0;n#div#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#3;n#ul#0;n#div#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#4;n#ul#0;n#div#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#4;n#ul#0;n#div#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#2;n#ul#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#3;n#ul#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#3;n#ul#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#2;n#ul#0;n#div#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#section#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#section#1;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="e#24111#24117#0#HTML" expanded="true" />

@@ -20,6 +20,9 @@
 	<meta http-equiv='content-language' content='vi'>
 	<link rel="search" type="application/opensearchdescription+xml" title="Tìm kiếm TTC Energy"
 	      href="https://www.ttcenergy.vn/SearchEngineInfo.ashx"/>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" rel="stylesheet">
 	<meta name="viewport"
 	      content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
 	<link rel='stylesheet' type='text/css' href='<?php bloginfo('template_directory'); ?>/App_Themes/toolbar.css'/>
@@ -30,10 +33,6 @@
 	<link rel='shortcut icon' href='<?php bloginfo('template_directory'); ?>/Data/Sites/1/skins/default/favicon.ico'/>
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" type="text/javascript"></script>
 	<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/jquery-ui.min.js" type="text/javascript"></script>
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=G-0GB1HLDK5S"></script>
-
-
 </head>
 
 <body id="ctl00_Body" class=" homepage vi-vn">
@@ -46,7 +45,7 @@
 				<div class="header-left">
 					<div class="logo">
 						<div class='Module Module-206'>
-							<div class='ModuleContent'><a href="/"><img alt=""
+							<div class='ModuleContent'><a href="/"><img alt="" width="100px"
 							                                            src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/skins/default/img/logo.png"/></a>
 							</div>
 						</div>
@@ -54,12 +53,7 @@
 				</div>
 				<div class="header-right">
 					<div class="top-nav">
-						<div class="top-nav-item uk-inline recruit-link">
-							<div class='Module Module-346'>
-								<div class='ModuleContent'><a href="/tuyen-dung" style="font-size: 14px;">Tuyển dụng</a>
-								</div>
-							</div>
-						</div>
+
 						<div class="hotline-wrapper top-nav-item uk-inline">
 							<a href="#"><span class="lnr lnr-telephone"></span></a>
 							<div
@@ -119,11 +113,7 @@
 								</div>
 							</div>
 						</div>
-						<div class="language-wrapper top-nav-item">
-							<div class='Module Module-210'><a href="https://www.ttcenergy.vn/en-US/Default.aspx"
-							                                  title="English"><img src="/Data/SiteImages/flags/en.png"
-							                                                       alt="English"></a></div>
-						</div>
+
 					</div>
 					<div class="bottom-nav">
 						<div class="menu-wrapper">
@@ -134,29 +124,6 @@
 												chủ</a></li>
 										<li><a href="https://www.ttcenergy.vn/gioi-thieu" title="Về chúng tôi">Về chúng
 												tôi</a>
-											<div uk-dropdown="">
-												<ul class="uk-nav uk-dropdown-nav">
-													<li style="margin:0;"><a class="uk-text-lowercase uk-text-left"
-													                         style="margin:0;"
-													                         href="https://www.ttcenergy.vn/gioi-thieu#gioi-thieu-1"
-													                         title="Giới thiệu">Giới thiệu</a></li>
-													<li style="margin:0;"><a class="uk-text-lowercase uk-text-left"
-													                         style="margin:0;"
-													                         href="https://www.ttcenergy.vn/gioi-thieu#gioi-thieu-2"
-													                         title="Tầm nhìn - Sứ mệnh">Tầm nhìn - Sứ
-															mệnh</a></li>
-													<li style="margin:0;"><a class="uk-text-lowercase uk-text-left"
-													                         style="margin:0;"
-													                         href="https://www.ttcenergy.vn/gioi-thieu#gioi-thieu-4"
-													                         title="Sơ đồ tổ chức">Sơ đồ tổ chức</a>
-													</li>
-													<li style="margin:0;"><a class="uk-text-lowercase uk-text-left"
-													                         style="margin:0;"
-													                         href="https://www.ttcenergy.vn/gioi-thieu#gioi-thieu-5"
-													                         title="Mạng lưới hoạt động">Mạng lưới hoạt
-															động</a></li>
-												</ul>
-											</div>
 										</li>
 										<li><a href="https://www.ttcenergy.vn/giai-phap-doanh-nghiep"
 										       title="Giải pháp doanh nghiệp">Giải pháp doanh nghiệp</a>
@@ -165,58 +132,8 @@
 													<li style="margin:0;"><a class="uk-text-lowercase uk-text-left"
 													                         style="margin:0;"
 													                         href="https://www.ttcenergy.vn/giai-phap-doanh-nghiep#giai-phap-doanh-nghiep-1"
-													                         title="Gói giải pháp">Gói giải pháp</a>
+													                         title="Gói giải pháp">Giải pháp</a>
 													</li>
-													<li style="margin:0;"><a class="uk-text-lowercase uk-text-left"
-													                         style="margin:0;"
-													                         href="https://www.ttcenergy.vn/giai-phap-doanh-nghiep#giai-phap-doanh-nghiep-2"
-													                         title="Lợi ích khác biệt">Lợi ích khác
-															biệt</a></li>
-													<li style="margin:0;"><a class="uk-text-lowercase uk-text-left"
-													                         style="margin:0;"
-													                         href="https://www.ttcenergy.vn/giai-phap-doanh-nghiep#giai-phap-doanh-nghiep-3"
-													                         title="Chế độ hậu mãi">Chế độ hậu mãi</a>
-													</li>
-													<li style="margin:0;"><a class="uk-text-lowercase uk-text-left"
-													                         style="margin:0;"
-													                         href="https://www.ttcenergy.vn/giai-phap-doanh-nghiep#giai-phap-doanh-nghiep-4"
-													                         title="Trải nghiệm khách hàng">Trải nghiệm
-															khách hàng</a></li>
-													<li style="margin:0;"><a class="uk-text-lowercase uk-text-left"
-													                         style="margin:0;"
-													                         href="https://www.ttcenergy.vn/giai-phap-doanh-nghiep#giai-phap-doanh-nghiep-7"
-													                         title="Dự án">Dự án</a></li>
-												</ul>
-											</div>
-										</li>
-										<li><a href="https://www.ttcenergy.vn/giai-phap-ho-gia-dinh"
-										       title="Giải pháp hộ gia đình">Giải pháp hộ gia đình</a>
-											<div uk-dropdown="">
-												<ul class="uk-nav uk-dropdown-nav">
-													<li style="margin:0;"><a class="uk-text-lowercase uk-text-left"
-													                         style="margin:0;"
-													                         href="https://www.ttcenergy.vn/giai-phap-ho-gia-dinh#giai-phap-gia-dinh-1"
-													                         title="Gói giải pháp">Gói giải pháp</a>
-													</li>
-													<li style="margin:0;"><a class="uk-text-lowercase uk-text-left"
-													                         style="margin:0;"
-													                         href="https://www.ttcenergy.vn/giai-phap-ho-gia-dinh#giai-phap-gia-dinh-2"
-													                         title="Lợi ích khác biệt">Lợi ích khác
-															biệt</a></li>
-													<li style="margin:0;"><a class="uk-text-lowercase uk-text-left"
-													                         style="margin:0;"
-													                         href="https://www.ttcenergy.vn/giai-phap-ho-gia-dinh#giai-phap-gia-dinh-3"
-													                         title="Chế độ hậu mãi">Chế độ hậu mãi</a>
-													</li>
-													<li style="margin:0;"><a class="uk-text-lowercase uk-text-left"
-													                         style="margin:0;"
-													                         href="https://www.ttcenergy.vn/giai-phap-ho-gia-dinh#giai-phap-gia-dinh-4"
-													                         title="Tính toán chi phí">Tính toán chi
-															phí</a></li>
-													<li style="margin:0;"><a class="uk-text-lowercase uk-text-left"
-													                         style="margin:0;"
-													                         href="https://www.ttcenergy.vn/giai-phap-ho-gia-dinh#giai-phap-gia-dinh-7"
-													                         title="Dự án">Dự án</a></li>
 												</ul>
 											</div>
 										</li>
@@ -229,44 +146,11 @@
 													                         href="https://www.ttcenergy.vn/thiet-bi-phu-kien/tam-pin-nang-luong-mat-troi"
 													                         title="Tấm pin năng lượng mặt trời">Tấm pin
 															năng lượng mặt trời</a></li>
-													<li style="margin:0;"><a class="uk-text-lowercase uk-text-left"
-													                         style="margin:0;"
-													                         href="https://www.ttcenergy.vn/thiet-bi-phu-kien/bo-chuyen-dien-inverter"
-													                         title="Bộ chuyển điện - Inverter">Bộ chuyển
-															điện - Inverter</a></li>
-													<li style="margin:0;"><a class="uk-text-lowercase uk-text-left"
-													                         style="margin:0;"
-													                         href="https://www.ttcenergy.vn/thiet-bi-phu-kien/hybrid"
-													                         title="Hybrid">Hybrid</a></li>
-													<li style="margin:0;"><a class="uk-text-lowercase uk-text-left"
-													                         style="margin:0;"
-													                         href="https://www.ttcenergy.vn/thiet-bi-phu-kien/batteries"
-													                         title="Batteries">Batteries</a></li>
+
 												</ul>
 											</div>
 										</li>
-										<li><a href="https://www.ttcenergy.vn/he-thong-phan-phoi"
-										       title="Hệ thống phân phối">Hệ thống phân phối</a>
-											<div uk-dropdown="">
-												<ul class="uk-nav uk-dropdown-nav">
-													<li style="margin:0;"><a class="uk-text-lowercase uk-text-left"
-													                         style="margin:0;"
-													                         href="https://www.ttcenergy.vn/he-thong-phan-phoi"
-													                         title="Tìm đại lý gần nhất">Tìm đại lý gần
-															nhất</a></li>
-													<li style="margin:0;"><a class="uk-text-lowercase uk-text-left"
-													                         style="margin:0;"
-													                         href="https://www.ttcenergy.vn/he-thong-phan-phoi/chinh-sach-danh-cho-dai-ly-2"
-													                         title="Chính sách dành cho đại lý">Chính
-															sách dành cho đại lý</a></li>
-													<li style="margin:0;"><a class="uk-text-lowercase uk-text-left"
-													                         style="margin:0;"
-													                         href="https://www.ttcenergy.vn/he-thong-phan-phoi#register"
-													                         title="Đăng ký trở thành đại lý">Đăng ký
-															trở thành đại lý</a></li>
-												</ul>
-											</div>
-										</li>
+										<li><a href="https://www.ttcenergy.vn/lien-he" title="Liên hệ">Câu hỏi thường gặp</a></li>
 										<li><a href="https://www.ttcenergy.vn/lien-he" title="Liên hệ">Liên hệ</a></li>
 									</ul>
 								</div>
@@ -416,10 +300,7 @@
 									</div>
 									<div class="wrapper wrapper-2">
 										<div class="middle-image">
-											<a data-fancybox="" href="<p>https://youtu.be/Ih_WlrPZFkA<br />&#xA;</p>"
-											   title="Video lợi ích">
-												<img src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/News/img-new.png" alt="Video lợi ích">
-											</a>
+											<img src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/News/img-new.png" alt="Video lợi ích">
 										</div>
 									</div>
 									<div class="wrapper wrapper-3">
@@ -2391,8 +2272,6 @@
 										<li><a href="https://www.ttcenergy.vn/he-thong-phan-phoi"
 										       title="Hệ thống phân phối">Hệ thống phân phối</a></li>
 										<li><a href="https://www.ttcenergy.vn/tin-tuc" title="Tin tức">Tin tức</a></li>
-										<li><a href="https://www.ttcenergy.vn/tuyen-dung" title="Tuyển dụng">Tuyển
-												dụng</a></li>
 										<li><a href="https://www.ttcenergy.vn/thu-vien/hinh-anh" title="Thư viện">Thư
 												viện</a></li>
 										<li><a href="https://www.ttcenergy.vn/faqs" title="FAQs">FAQs</a></li>
