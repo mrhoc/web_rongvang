@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b960ea92-988f-48ba-9401-a97e6458ac2e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/page-giai-phap-doanh-nghiep.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/page-gioi-thieu.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/front-page.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/front-page.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/rongvang/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/single-livestream.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/rongvang/single-matches.php" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -251,7 +244,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/rongvang/page-giai-phap-doanh-nghiep.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="379">
+            <state relative-caret-position="381">
               <caret line="82" column="47" lean-forward="true" selection-start-line="82" selection-start-column="47" selection-end-line="82" selection-end-column="47" />
               <folding>
                 <element signature="e#301#347#0#HTML" expanded="true" />
@@ -259,6 +252,7 @@
                 <element signature="e#2793#2860#0#HTML" expanded="true" />
                 <element signature="e#3050#3078#0#HTML" expanded="true" />
                 <element signature="e#3120#3148#0#HTML" expanded="true" />
+                <element signature="e#52185#60652#0#HTML" />
                 <element signature="e#52423#52476#0#HTML" expanded="true" />
                 <element signature="e#52517#52534#0#HTML" expanded="true" />
                 <element signature="e#53142#53148#0#HTML" expanded="true" />
@@ -378,7 +372,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-1449" />
     <option name="y" value="163" />
     <option name="width" value="1440" />
@@ -451,26 +445,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1692263621636</updated>
-      <workItem from="1692263623745" duration="15561000" />
+      <workItem from="1692263623745" duration="16197000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15561000" />
+    <option name="totallyTimeSpent" value="16197000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="42" width="1936" height="1048" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21428572" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21428572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Educational.CheckDetails" />
       <window_info anchor="bottom" id="Tail" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32896176" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32896176" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -749,7 +742,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/rongvang/page-giai-phap-doanh-nghiep.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
+        <state relative-caret-position="381">
           <caret line="82" column="47" lean-forward="true" selection-start-line="82" selection-start-column="47" selection-end-line="82" selection-end-column="47" />
           <folding>
             <element signature="e#301#347#0#HTML" expanded="true" />
@@ -757,6 +750,7 @@
             <element signature="e#2793#2860#0#HTML" expanded="true" />
             <element signature="e#3050#3078#0#HTML" expanded="true" />
             <element signature="e#3120#3148#0#HTML" expanded="true" />
+            <element signature="e#52185#60652#0#HTML" />
             <element signature="e#52423#52476#0#HTML" expanded="true" />
             <element signature="e#52517#52534#0#HTML" expanded="true" />
             <element signature="e#53142#53148#0#HTML" expanded="true" />
