@@ -6,7 +6,7 @@
 					<div class="logo">
 						<div class='Module Module-213'>
 							<div class='ModuleContent'><img alt=""
-							                                src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/skins/default/img/logo-white.png"/>
+							                                src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/skins/default/img/logo.png"/>
 							</div>
 						</div>
 					</div>

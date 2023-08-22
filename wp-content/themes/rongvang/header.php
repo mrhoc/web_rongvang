@@ -1,25 +1,20 @@
 <!DOCTYPE html>
 <html id="ctl00_Html1" lang="vi">
 <head id="ctl00_Head1"><title>
-		Công ty CP Năng lượng TTC (TTC Energy)
+		Công ty TNHH Kiến trúc XD và VT Rồng Vàng
 	</title>
 
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 	<meta name="description"
-	      content=""/>
-	<meta name="keywords" content=""/>
-	<meta property="og:title" content=""/>
+	      content="Công ty TNHH Kiến trúc XD và VT Rồng Vàng"/>
+	<meta property="og:title" content="Công ty TNHH Kiến trúc XD và VT Rồng Vàng"/>
 	<meta property="og:description"
-	      content=""/>
+	      content="Công ty TNHH Kiến trúc XD và VT Rồng Vàng"/>
 	<meta property="og:site_name" content=""/>
-	<meta itemprop="name" content=""/>
-	<meta itemprop="description"
-	      content=""/>
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" rel="stylesheet">
-	<meta name="viewport"
-	      content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
 	<link rel='stylesheet' type='text/css' href='<?php bloginfo('template_directory'); ?>/App_Themes/toolbar.css'/>
 	<link rel='stylesheet' type='text/css' href='<?php bloginfo('template_directory'); ?>/ClientScript/fancybox/jquery.fancybox.css'/>
 	<link rel='stylesheet' type='text/css' href='<?php bloginfo('template_directory'); ?>/Data/Sites/1/skins/default/css/core.min.css'/>
@@ -31,8 +26,6 @@
 </head>
 
 <body id="ctl00_Body" class="">
-
-
 <div id="wrapper">
 	<header>
 		<div class="uk-container">
@@ -40,15 +33,13 @@
 				<div class="header-left">
 					<div class="logo">
 						<div class='Module Module-206'>
-							<div class='ModuleContent'><a href="/"><img alt="" width="100px"
-							                                            src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/skins/default/img/logo.png"/></a>
+							<div class='ModuleContent'><a href="/"><img alt="" width="100px" src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/skins/default/img/logo.png"/></a>
 							</div>
 						</div>
 					</div>
 				</div>
 				<div class="header-right">
 					<div class="top-nav">
-
 						<div class="hotline-wrapper top-nav-item uk-inline">
 							<a href="#"><span class="lnr lnr-telephone"></span></a>
 							<div
@@ -57,7 +48,7 @@
 							>
 								<div class='Module Module-207'>
 									<div class='ModuleContent'><p>hotline tư vấn 24/7</p>
-										<h3>(+84) 908 515 511</h3></div>
+										<h3>(+84)  902 248 918</h3></div>
 								</div>
 							</div>
 						</div>
@@ -70,11 +61,11 @@
 								<div class='Module Module-208'>
 									<div class='ModuleContent'><p>Theo doi</p>
 										<div class="header-social-items"><a
-												href="https://www.facebook.com/portal.ttcenergy/"><span
+												href="#"><span
 													class="mdi mdi-facebook"></span></a><a
-												href="https://www.youtube.com/channel/UCJbmzd5-JCICAKSFFkIqzvw"><span
+												href="#"><span
 													class="mdi mdi-youtube-play"></span></a><a
-												href="https://www.linkedin.com/in/ttc-energy-company-34807b1aa/"><span
+												href="#"><span
 													class="mdi mdi-linkedin"></span></a></div>
 									</div>
 								</div>
@@ -115,9 +106,9 @@
 							<div class='Module Module-211'>
 								<div class='ModuleContent'>
 									<ul class="menu-nav">
-										<li class="active"><a href="https://www.ttcenergy.vn/" title="Trang chủ">Trang
+										<li class="active"><a href="/" title="Trang chủ">Trang
 												chủ</a></li>
-										<li><a href="https://www.ttcenergy.vn/gioi-thieu" title="Về chúng tôi">Về chúng
+										<li><a href="/gioi-thieu" title="Về chúng tôi">Về chúng
 												tôi</a>
 										</li>
 										<li><a href="https://www.ttcenergy.vn/giai-phap-doanh-nghiep"
