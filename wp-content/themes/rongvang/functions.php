@@ -126,3 +126,43 @@ function teamgroup($prop, $val)
 
 //remove_filter( 'the_content', 'wpautop' );
 //remove_filter( 'the_excerpt', 'wpautop' );
+
+function custom_post_type_pagination() {
+	global $wp_query;
+
+	$total_pages = $wp_query->max_num_pages;
+	$current_page = max(1, get_query_var('paged'));
+
+	if ($total_pages > 1) {
+		echo '<ul class="pagination">';
+
+		// Link trang trước
+		if ($current_page > 1) {
+			echo '<li><a href="' . get_pagenum_link($current_page - 1) . '"> < </a></li>';
+		}
+
+		// Liên kết các trang
+		for ($i = 1; $i <= $total_pages; $i++) {
+			if ($i == $current_page) {
+				echo '<li class="PagerOtherPageCells active"><a class="ModulePager" href="' . get_pagenum_link($i) . '">' . $i . '</a></li>';
+			} else {
+				echo '<li class="PagerOtherPageCells"><a class="ModulePager" href="' . get_pagenum_link($i) . '">' . $i . '</a></li>';
+			}
+		}
+
+		// Liên kết trang tiếp theo
+		if ($current_page < $total_pages) {
+			echo '<li class="PagerOtherPageCells"><a href="' . get_pagenum_link($current_page + 1) . '"> > </a></li>';
+		}
+
+		echo '</ul>';
+	}
+}
+
+function get_data_field($label,$field_name){
+	if(get_field('thong_so_ki_thuat')[$field_name]){
+		$fname=get_field('thong_so_ki_thuat')[$field_name];
+		echo '<tr><td>'.$label.'</td><td>'.$fname.'</td></tr>';
+
+	}
+}
