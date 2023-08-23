@@ -24,6 +24,17 @@
 	<link rel='shortcut icon' href='<?php bloginfo('template_directory'); ?>/Data/Sites/1/skins/default/favicon.ico'/>
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" type="text/javascript"></script>
 	<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/jquery-ui.min.js" type="text/javascript"></script>
+	<style>
+		header .search-wrapper .searchbox button {
+			position: absolute;
+			top: 0;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			padding-top: 6px;
+			right: -2px;
+		}
+	</style>
 </head>
 
 <body id="ctl00_Body" class="">
@@ -80,21 +91,19 @@
 								></a>
 							<div
 								class="uk-drop"
-								uk-drop="mode: click;offset: 0;pos: top-right"
-							>
+								uk-drop="mode: click;offset: 0;pos: top-right">
+
 								<div class='Module Module-342'>
 									<div id='ctl00_mdl342_ctl00_Search_pnlSearch' class='searchbox'>
 
-										<input onfocus=""
-										       onblur=""
-										       name="ctl00$mdl342$ctl00$Search$txtSearch" type="text"
-										       id="ctl00_mdl342_ctl00_Search_txtSearch" title="Tìm kiếm"
-										       class="searchinput" autocomplete="off" placeholder="Tìm kiếm"/>
+										<form role="search" method="get" class="search-form" action="<?php echo esc_url(home_url('/')); ?>">
+												<input type="search" class="search-field" placeholder="" value="" name="s">
+												<button type="submit"  id="" class="searchbutton">
+													<em class="mdi mdi-magnify"></em>
+												</button>
+										</form>
 
-										<button onclick="__doPostBack('ctl00$mdl342$ctl00$Search$btnSearch','')"
-										        id="ctl00_mdl342_ctl00_Search_btnSearch" class="searchbutton">
-											<em class="mdi mdi-magnify"></em>
-										</button>
+
 
 									</div>
 								</div>
@@ -148,7 +157,8 @@
 												</ul>
 											</div>
 										</li>
-										<li><a href="<?php bloginfo('url'); ?>/faq" title="Liên hệ">Câu hỏi thường gặp</a></li>
+										<li><a href="<?php bloginfo('url'); ?>/tin-tuc" title="Liên hệ">Tin tức</a></li>
+										<li><a href="<?php bloginfo('url'); ?>/faqs" title="Liên hệ">Câu hỏi thường gặp</a></li>
 										<li><a href="<?php bloginfo('url'); ?>/lien-he" title="Liên hệ">Liên hệ</a></li>
 									</ul>
 								</div>
@@ -178,16 +188,15 @@
 			<div class='Module Module-212'>
 				<div id='ctl00_mdl212_ctl00_Search_pnlSearch' class='uk-search uk-search-large'>
 
-					<input onfocus="javascript:watermarkEnter(this, &#39;&#39;);"
-					       onblur="javascript:watermarkLeave(this, &#39;&#39;);"
-					       name="ctl00$mdl212$ctl00$Search$txtSearch" type="text"
-					       id="ctl00_mdl212_ctl00_Search_txtSearch" title="Tìm kiếm"
-					       class="uk-search-input uk-text-center" autocomplete="off" placeholder="Tìm kiếm"/>
+					<form role="search" method="get" class="search-form" action="<?php echo esc_url(home_url('/')); ?>">
 
-					<button onclick="__doPostBack('ctl00$mdl212$ctl00$Search$btnSearch','')"
-					        id="ctl00_mdl212_ctl00_Search_btnSearch" class="searchbutton">
-						<span class="mdi mdi-magnify"></span>
-					</button>
+							<input type="search" class="search-field" placeholder="Tìm kiếm..." value="" name="s">
+							<button type="submit"  id="" class="searchbutton">
+								<em class="mdi mdi-magnify"></em>
+							</button>
+
+
+					</form>
 
 				</div>
 			</div>

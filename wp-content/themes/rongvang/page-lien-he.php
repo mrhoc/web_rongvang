@@ -6,6 +6,9 @@
 	label{
 		font-weight: bold;
 	}
+	input,textarea{
+		width: 100%;
+	}
 	.wpcf7-submit{
 		display: inline-flex;
 		align-items: center;
