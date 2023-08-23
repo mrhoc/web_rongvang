@@ -23,7 +23,7 @@
 						</div>
 					</div>
 					<div class='Module Module-223'>
-						<ol class='breadcrumb' itemscope='' itemtype='http://schema.org/BreadcrumbList'>
+						<ol class='breadcrumb' >
 
 							<li><a href='/' class='itemcrumb' ><span itemprop='name'>Trang chủ</span></a>
 								<meta itemprop='position' content='0'>
@@ -66,7 +66,7 @@
 																$term_name = $term->name;
 																$term_link = get_term_link($term);
 
-																echo '<li></li><a href="' . esc_url($term_link) . '">' . esc_html($term_name) . '</a></li>';
+																echo '<li><a href="' . esc_url($term_link) . '">' . esc_html($term_name) . '</a></li>';
 															}
 														}
 														?>
@@ -97,7 +97,7 @@
 											$args = array(
 												'paged' => $curpage,
 												'post_type' => 'product', // You can add a custom post type if you like
-												'posts_per_page' => 2, // limit of posts,
+												'posts_per_page' => 12, // limit of posts,
 											);
 											$primary_query = new WP_Query($args);
 											wp_reset_query();

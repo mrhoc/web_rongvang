@@ -34,7 +34,7 @@
 				<div class="header-left">
 					<div class="logo">
 						<div class='Module Module-206'>
-							<div class='ModuleContent'><a href="/"><img alt="" width="100px" src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/skins/default/img/logo.png"/></a>
+							<div class='ModuleContent'><a href="<?php bloginfo('url'); ?>/"><img alt="" width="100px" src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/skins/default/img/logo.png"/></a>
 							</div>
 						</div>
 					</div>
@@ -85,8 +85,8 @@
 								<div class='Module Module-342'>
 									<div id='ctl00_mdl342_ctl00_Search_pnlSearch' class='searchbox'>
 
-										<input onfocus="javascript:watermarkEnter(this, &#39;&#39;);"
-										       onblur="javascript:watermarkLeave(this, &#39;&#39;);"
+										<input onfocus=""
+										       onblur=""
 										       name="ctl00$mdl342$ctl00$Search$txtSearch" type="text"
 										       id="ctl00_mdl342_ctl00_Search_txtSearch" title="Tìm kiếm"
 										       class="searchinput" autocomplete="off" placeholder="Tìm kiếm"/>
@@ -107,38 +107,49 @@
 							<div class='Module Module-211'>
 								<div class='ModuleContent'>
 									<ul class="menu-nav">
-										<li class="active"><a href="/" title="Trang chủ">Trang
+										<li class="active"><a href="<?php bloginfo('url'); ?>/" title="Trang chủ">Trang
 												chủ</a></li>
-										<li><a href="/gioi-thieu" title="Về chúng tôi">Về chúng
+										<li><a href="<?php bloginfo('url'); ?>/gioi-thieu" title="Về chúng tôi">Về chúng
 												tôi</a>
 										</li>
-										<li><a href="https://www.ttcenergy.vn/giai-phap-doanh-nghiep"
+										<li><a href="<?php bloginfo('url'); ?>/giai-phap-doanh-nghiep"
 										       title="Giải pháp doanh nghiệp">Giải pháp doanh nghiệp</a>
 											<div uk-dropdown="">
 												<ul class="uk-nav uk-dropdown-nav">
 													<li style="margin:0;"><a class="uk-text-lowercase uk-text-left"
 													                         style="margin:0;"
-													                         href="https://www.ttcenergy.vn/giai-phap-doanh-nghiep#giai-phap-doanh-nghiep-1"
+													                         href="<?php bloginfo('url'); ?>/giai-phap-doanh-nghiep"
 													                         title="Gói giải pháp">Giải pháp</a>
 													</li>
 												</ul>
 											</div>
 										</li>
-										<li><a href="https://www.ttcenergy.vn/thiet-bi-phu-kien"
+										<li><a href="<?php bloginfo('url'); ?>/product"
 										       title="Thiết bị phụ kiện">Thiết bị phụ kiện</a>
 											<div uk-dropdown="">
 												<ul class="uk-nav uk-dropdown-nav">
-													<li style="margin:0;"><a class="uk-text-lowercase uk-text-left"
-													                         style="margin:0;"
-													                         href="https://www.ttcenergy.vn/thiet-bi-phu-kien/tam-pin-nang-luong-mat-troi"
-													                         title="Tấm pin năng lượng mặt trời">Tấm pin
-															năng lượng mặt trời</a></li>
+													<?php
+													$taxonomy = 'category_product'; // Replace with the actual taxonomy name
+													$terms = get_terms(array(
+														'taxonomy' => $taxonomy,
+														'hide_empty' => false,
+													));
+
+													if (!empty($terms) && !is_wp_error($terms)) {
+														foreach ($terms as $term) {
+															$term_name = $term->name;
+															$term_link = get_term_link($term);
+
+															echo '<li style="margin:0;"><a class="uk-text-lowercase uk-text-left" style="margin:0;" href="' . esc_url($term_link) . '">' . esc_html($term_name) . '</a></li>';
+														}
+													}
+													?>
 
 												</ul>
 											</div>
 										</li>
-										<li><a href="https://www.ttcenergy.vn/lien-he" title="Liên hệ">Câu hỏi thường gặp</a></li>
-										<li><a href="https://www.ttcenergy.vn/lien-he" title="Liên hệ">Liên hệ</a></li>
+										<li><a href="<?php bloginfo('url'); ?>/faq" title="Liên hệ">Câu hỏi thường gặp</a></li>
+										<li><a href="<?php bloginfo('url'); ?>/lien-he" title="Liên hệ">Liên hệ</a></li>
 									</ul>
 								</div>
 							</div>

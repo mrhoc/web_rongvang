@@ -30,8 +30,8 @@
 						<div class='Module Module-215'>
 							<div class='ModuleContent'><h3>Về chúng tôi</h3>
 								<ul>
-									<li><a href="/gioi-thieu">Giới thiệu</a></li>
-									<li><a href="/lien-he">Liên hệ</a></li>
+									<li><a href="<?php bloginfo('url'); ?>/gioi-thieu/">Giới thiệu</a></li>
+									<li><a href="<?php bloginfo('url'); ?>/lien-he/">Liên hệ</a></li>
 								</ul>
 							</div>
 						</div>
@@ -42,10 +42,10 @@
 						<div class='Module Module-216'>
 							<div class='ModuleContent'><h3>Giải pháp kinh doanh</h3>
 								<ul>
-									<li><a href="/giai-phap-doanh-nghiep">Giải pháp</a></li>
-									<li><a href="/thiet-bi-phu-kien">Thiết bị và phụ kiện</a></li>
+									<li><a href="<?php bloginfo('url'); ?>/giai-phap-doanh-nghiep/">Giải pháp</a></li>
+									<li><a href="<?php bloginfo('url'); ?>/product/">Thiết bị và phụ kiện</a></li>
 								</ul>
-								<div class="bct"><a href="http://online.gov.vn/Home/WebDetails/87932"
+								<div class="bct"><a href="#"
 								                    target="_blank"><img alt=""
 								                                         src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/media/default/bocongthuong.png"/></a>
 								</div>
@@ -65,38 +65,25 @@
 						<div class='ModuleContent'>
 							<nav class="bottom-nav">
 								<ul uk-margin="">
-									<li><a href="https://www.ttcenergy.vn/he-thong-phan-phoi"
-									       title="Hệ thống phân phối">Hệ thống phân phối</a></li>
-									<li><a href="https://www.ttcenergy.vn/tin-tuc" title="Tin tức">Tin tức</a></li>
-									<li><a href="https://www.ttcenergy.vn/thu-vien/hinh-anh" title="Thư viện">Thư
-											viện</a></li>
-									<li><a href="https://www.ttcenergy.vn/faqs" title="FAQs">FAQs</a></li>
-									<li><a href="https://www.ttcenergy.vn/du-an-2" title="Dự án">Dự án</a></li>
-									<li><a href="https://www.ttcenergy.vn/chinh-sach-bao-mat"
-									       title="Chính sách bảo mật">Chính sách bảo mật</a></li>
+									<li><a href="<?php bloginfo('url'); ?>/tin-tuc/" title="Tin tức">Tin tức</a></li>
+									<li><a href="<?php bloginfo('url'); ?>/faqs" title="FAQs">FAQs</a></li>
 								</ul>
 							</nav>
 						</div>
 					</div>
-					<div class="copyright">
-						<p>
-							Copyright &copy; 2020 - 2023 TTC Energy. <a https://www.thuythu.vn/"
-							target="_blank">Thiết kế website</a> bởi <a target="_blank"
-							                                            href="https://www.thuythu.vn/">Thủy Thủ</a>
-						</p>
-					</div>
+
 				</div>
 				<div class="wrapper uk-width-1-6@l">
 					<div class="social-share">
 						<div class='Module Module-219'>
 							<div class='ModuleContent'>
 								<ul>
-									<li><a href="https://www.facebook.com/portal.ttcenergy/?ref=bookmarks"><span
+									<li><a href="#"><span
 													class="mdi mdi-facebook"></span></a></li>
 									<li>
-										<a href="https://www.youtube.com/channel/UCJbmzd5-JCICAKSFFkIqzvw?view_as=subscriber"><span
+										<a href="#"><span
 													class="mdi mdi-youtube-play"></span></a></li>
-									<li><a href="https://www.linkedin.com/in/ttc-energy-company-34807b1aa/"><span
+									<li><a href="#"><span
 													class="mdi mdi-linkedin"></span></a></li>
 								</ul>
 							</div>
@@ -111,23 +98,17 @@
 	<div class='Module Module-299'>
 		<div class='ModuleContent'>
 			<ul>
-<!--				<li><a href="/giai-phap-ho-gia-dinh#about-4"><span class="icon"> <img alt=""-->
-<!--				                                                                      src="--><?php //bloginfo('template_directory'); ?><!--/Data/Sites/1/skins/default/img/right-nav/1.png"/></span><span-->
-<!--								class="label">Tính toán chi phí tiết kiệm</span></a></li>-->
-<!--				<li><a href="/he-thong-phan-phoi"><span class="icon"> <img alt=""-->
-<!--				                                                           src="--><?php //bloginfo('template_directory'); ?><!--/Data/Sites/1/skins/default/img/right-nav/2.png"/></span><span-->
-<!--								class="label">Tìm đại lý gần nhất</span></a></li>-->
 				<li><a href="/lien-he"><span class="icon"> <img alt=""
 				                                                src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/skins/default/img/right-nav/3.png"/></span><span
 								class="label">Đăng ký nhận tư vấn</span></a></li>
-				<li><a href="tel:0908515511"><span class="icon"> <img alt=""
+				<li><a href="tel:0902248918"><span class="icon"> <img alt=""
 				                                                      src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/skins/default/img/right-nav/4.png"/></span><span
 								class="label">Hotline</span></a></li>
 			</ul>
 		</div>
 	</div>
 </div>
-<!-- Your customer chat code -->
+
 </div>
 
 

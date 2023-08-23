@@ -1,8 +1,6 @@
 <?php get_header() ?>
 	<main>
 		<div id="ctl00_divAlt1" class="altcontent1 cmszone">
-
-
 			<section class="banner-sub">
 				<div class="Module Module-289">
 					<div class="ModuleContent">
@@ -26,18 +24,15 @@
 							</div>
 						</div>
 						<div class="Module Module-223">
-							<ol class="breadcrumb" itemscope="" itemtype="http://schema.org/BreadcrumbList">
-
-								<li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a
-											href="https://www.ttcenergy.vn" class="itemcrumb" itemprop="item"
-											itemtype="http://schema.org/Thing"><span
+							<ol class="breadcrumb">
+								<li ><a href="/" class="itemcrumb" ><span
 												itemprop="name">Trang chủ</span></a>
 									<meta itemprop="position" content="0">
 								</li>
 
 								<li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a
-											href="https://www.ttcenergy.vn/gioi-thieu" class="itemcrumb active"
-											itemprop="item" itemtype="http://schema.org/Thing"><span itemprop="name">Về chúng tôi</span></a>
+											href="/gioi-thieu" class="itemcrumb active"
+									><span itemprop="name">Về chúng tôi</span></a>
 									<meta itemprop="position" content="1">
 								</li>
 
@@ -97,8 +92,8 @@
 												</div>
 												<div class="wrapper uk-width-1-3@l">
 													<div class="img">
-														<img src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/News/ttce-%C4%91%E1%BA%A1t-gi%E1%BA%A3i-th%C6%B0%E1%BB%9Fng-top-50-csa.png"
-														     alt="TTC Energy 2023">
+														<img src="<?php bloginfo('template_url') ?>/images/default-no-img.jpg"
+														     alt="">
 													</div>
 												</div>
 												<div class="wrapper uk-width-1-6@l">
@@ -125,7 +120,7 @@
 												</div>
 												<div class="wrapper uk-width-1-3@l">
 													<div class="img">
-														<img src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/News/ttce-%C4%91at-giai-thuong-hieu-m%E1%BA%A1nh.png"
+														<img src="<?php bloginfo('template_url') ?>/images/default-no-img.jpg"
 														     alt="TTC Energy 2022">
 													</div>
 												</div>
@@ -152,7 +147,7 @@
 												</div>
 												<div class="wrapper uk-width-1-3@l">
 													<div class="img">
-														<img src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/News/nhan-thuong-1000x600px.png"
+														<img src="<?php bloginfo('template_url') ?>/images/default-no-img.jpg"
 														     alt="TTC Energy 2021">
 													</div>
 												</div>
@@ -178,7 +173,7 @@
 												</div>
 												<div class="wrapper uk-width-1-3@l">
 													<div class="img">
-														<img src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/News/ttcenergy-chung-nhan-du-an-nang-luong-tai-tao-tieu-bieu.jpg"
+														<img src="<?php bloginfo('template_url') ?>/images/default-no-img.jpg"
 														     alt="TTC Energy 2020">
 													</div>
 												</div>
@@ -243,7 +238,7 @@
 												</div>
 												<div class="wrapper uk-width-1-3@l">
 													<div class="img">
-														<img src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/News/gi%E1%BB%9Bi-thi%E1%BB%87u-1.jpg"
+														<img src="<?php bloginfo('template_url') ?>/images/default-no-img.jpg"
 														     alt="TTC Energy 2017">
 													</div>
 												</div>
@@ -273,7 +268,7 @@
 												</div>
 												<div class="wrapper uk-width-1-3@l">
 													<div class="img">
-														<img src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/News/k%C3%BD-k%E1%BA%BFt-h%E1%BB%8Dp-t%C3%A1c-ttc---gec.jpg"
+														<img src="<?php bloginfo('template_url') ?>/images/default-no-img.jpg"
 														     alt="TTC Energy 2016">
 													</div>
 												</div>
@@ -305,7 +300,7 @@
 												</div>
 												<div class="wrapper uk-width-1-3@l">
 													<div class="img">
-														<img src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/News/t%C3%B2a-nh%C3%A0-ttc---gec.jpg"
+														<img src="<?php bloginfo('template_url') ?>/images/default-no-img.jpg"
 														     alt="TTC Energy 2013">
 													</div>
 												</div>

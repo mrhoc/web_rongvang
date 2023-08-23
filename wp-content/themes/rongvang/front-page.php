@@ -487,391 +487,50 @@
 								<p>SẢN PHẨM TIÊU CHUẨN VÀ CHẤT LƯỢNG</p>
 								<h3>Thiết bị &amp; phụ kiện</h3>
 							</div>
-							<div class="tab-switcher">
-								<ul uk-switcher="connect: .product-tabs-container">
-									<li><a href="#"><img alt=""
-									                     src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/skins/default/img/home/icon/8.png"/><span>Pin năng lượng mặt trời</span></a>
-									</li>
-									<li><a href="#"> <img alt="" src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/skins/default/img/home/icon/7.png"/><span>Bộ chuyển điện Inverter</span></a>
-									</li>
-								</ul>
-							</div>
 						</div>
 					</div>
-					<div class="product-tabs-container uk-switcher">
-						<div class="tab-content">
-							<div class='Module Module-325'>
-								<div class='ModuleContent'>
-									<div class="uk-position-relative">
-										<div uk-slider="finite: true">
-											<ul class="uk-slider-items uk-child-width-1-4@l uk-child-width-1-2@s uk-grid">
-												<li>
-													<a class="product-item"
-													   href="https://www.ttcenergy.vn/thiet-bi-phu-kien/tam-pin-nang-luong-mat-troi/tam-pin-nang-luong-mat-troi-longi-570-wp-hi-mo-6"
-													   title="Tấm Pin Năng Lượng Mặt Trời Longi 570 WP (Hi-MO 6)">
-														<div class="img">
-															<img src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/Product/1tam-pin-nang-luong-mat-troi-longi-560-580-wp-hi-mo-6-(2).png"
-															     alt="Tấm Pin Năng Lượng Mặt Trời Longi 570 WP (Hi-MO 6)">
-														</div>
-														<div class="caption">
-															<p class="name">Tấm Pin Năng Lượng Mặt Trời Longi 570 WP
-																(Hi-MO 6)</p>
-															<p class="wattage"></p>
-															<p class="view-more">Xem chi tiết</p>
-														</div>
-													</a>
-												</li>
-												<li>
-													<a class="product-item"
-													   href="https://www.ttcenergy.vn/thiet-bi-phu-kien/tam-pin-nang-luong-mat-troi/risen-645-670-wp-risen-solar"
-													   title="Tấm Pin Năng Lượng Mặt Trời Risen 645 - 670 WP | Risen Solar">
-														<div class="img">
-															<img src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/Product/pin-risen-645-670wp.png"
-															     alt="Tấm Pin Năng Lượng Mặt Trời Risen 645 - 670 WP | Risen Solar">
-														</div>
-														<div class="caption">
-															<p class="name">Tấm Pin Năng Lượng Mặt Trời Risen 645 - 670
-																WP | Risen Solar</p>
-															<p class="wattage"></p>
-															<p class="view-more">Xem chi tiết</p>
-														</div>
-													</a>
-												</li>
-												<li>
-													<a class="product-item"
-													   href="https://www.ttcenergy.vn/thiet-bi-phu-kien/tam-pin-nang-luong-mat-troi/risen-530-555-wp--risen-solar"
-													   title="Tấm Pin Năng Lượng Mặt Trời Risen 530 - 555 WP | Risen Solar">
-														<div class="img">
-															<img src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/Product/pin-risen-555w.png"
-															     alt="Tấm Pin Năng Lượng Mặt Trời Risen 530 - 555 WP | Risen Solar">
-														</div>
-														<div class="caption">
-															<p class="name">Tấm Pin Năng Lượng Mặt Trời Risen 530 - 555
-																WP | Risen Solar</p>
-															<p class="wattage"></p>
-															<p class="view-more">Xem chi tiết</p>
-														</div>
-													</a>
-												</li>
-												<li>
-													<a class="product-item"
-													   href="https://www.ttcenergy.vn/thiet-bi-phu-kien/tam-pin-nang-luong-mat-troi/canadian-405-wp"
-													   title="Tấm Pin Năng Lượng Mặt Trời Canadian 405 WP">
-														<div class="img">
-															<img src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/Product/pin-nlmt-canadian-405wp.png"
-															     alt="Tấm Pin Năng Lượng Mặt Trời Canadian 405 WP">
-														</div>
-														<div class="caption">
-															<p class="name">Tấm Pin Năng Lượng Mặt Trời Canadian 405
-																WP</p>
-															<p class="wattage"></p>
-															<p class="view-more">Xem chi tiết</p>
-														</div>
-													</a>
-												</li>
-												<li>
-													<a class="product-item"
-													   href="https://www.ttcenergy.vn/thiet-bi-phu-kien/tam-pin-nang-luong-mat-troi/longi-450-wp"
-													   title="Tấm Pin Năng Lượng Mặt Trời Longi 450 WP">
-														<div class="img">
-															<img src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/Product/pin-nang-luong-mat-troi-longi-425-455wp.png"
-															     alt="Tấm Pin Năng Lượng Mặt Trời Longi 450 WP">
-														</div>
-														<div class="caption">
-															<p class="name">Tấm Pin Năng Lượng Mặt Trời Longi 450 WP</p>
-															<p class="wattage"></p>
-															<p class="view-more">Xem chi tiết</p>
-														</div>
-													</a>
-												</li>
-											</ul>
-											<a class="uk-position-center-left uk-position-small" href="#"
-											   uk-slidenav-previous="" uk-slider-item="previous">
-      <span class="mdi mdi-chevron-left">
-      </span>
-											</a>
-											<a class="uk-position-center-right uk-position-small" href="#"
-											   uk-slidenav-next="" uk-slider-item="next">
-      <span class="mdi mdi-chevron-right">
-      </span>
-											</a>
-										</div>
+
+					<div class="uk-grid uk-child-width-1-3@m uk-child-width-1-2@s uk-grid-match"
+					>
+						<?php
+						global $paged;
+						$curpage = $paged ? $paged : 1;
+						$args = array(
+							'paged' => $curpage,
+							'post_type' => 'product', // You can add a custom post type if you like
+							'posts_per_page' => 12, // limit of posts,
+						);
+						$primary_query = new WP_Query($args);
+						wp_reset_query();
+						query_posts($args);
+						?>
+						<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
+							<div class="wrapper">
+								<a class="product-item"
+								   href="<?php the_permalink()?>"
+								   title="<?php the_title()?>">
+									<div class="img">
+										<?php if (has_post_thumbnail()): ?>
+											<?php the_post_thumbnail() ?>
+										<?php else: ?>
+											<img src="<?php bloginfo('template_url') ?>/images/default-no-img.jpg"
+											     alt="">
+										<?php endif; ?>
 									</div>
-									<a class="btn-view-all"
-									   href="https://www.ttcenergy.vn/thiet-bi-phu-kien/tam-pin-nang-luong-mat-troi"
-									   title="">TẤT CẢ SẢN PHẨM</a></div>
-							</div>
-						</div>
-						<div class="tab-content">
-							<div class='Module Module-326'>
-								<div class='ModuleContent'>
-									<div class="uk-position-relative">
-										<div uk-slider="finite: true">
-											<ul class="uk-slider-items uk-child-width-1-4@l uk-child-width-1-2@s uk-grid">
-												<li>
-													<a class="product-item"
-													   href="https://www.ttcenergy.vn/thiet-bi-phu-kien/bo-chuyen-dien-inverter/bien-tan-sma-110kw-sunny-tripower-core-2"
-													   title="Inverter SMA 110Kw (Sunny Tripower CORE 2)">
-														<div class="img">
-															<img src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/Product/inverter-sma-110kw-(sunny-tripower-core-2).png"
-															     alt="Inverter SMA 110Kw (Sunny Tripower CORE 2)">
-														</div>
-														<div class="caption">
-															<p class="name">Inverter SMA 110Kw (Sunny Tripower CORE
-																2)</p>
-															<p class="wattage"></p>
-															<p class="view-more">Xem chi tiết</p>
-														</div>
-													</a>
-												</li>
-												<li>
-													<a class="product-item"
-													   href="https://www.ttcenergy.vn/thiet-bi-phu-kien/bo-chuyen-dien-inverter/sma-50kw-sunny-tripower-core-1"
-													   title="Inverter SMA 50Kw (Sunny Tripower Core 1)">
-														<div class="img">
-															<img src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/Product/inverter-sma-50kw-sunny-tripower-core-1.png"
-															     alt="Inverter SMA 50Kw (Sunny Tripower Core 1)">
-														</div>
-														<div class="caption">
-															<p class="name">Inverter SMA 50Kw (Sunny Tripower Core
-																1)</p>
-															<p class="wattage"></p>
-															<p class="view-more">Xem chi tiết</p>
-														</div>
-													</a>
-												</li>
-												<li>
-													<a class="product-item"
-													   href="https://www.ttcenergy.vn/thiet-bi-phu-kien/bo-chuyen-dien-inverter/sma-stp-25000tl-sma-25-kw"
-													   title="Inverter SMA STP 25000TL (SMA 25 KW)">
-														<div class="img">
-															<img src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/Product/inverter-sma-stp-25000tl-(sma-25-kw).png"
-															     alt="Inverter SMA STP 25000TL (SMA 25 KW)">
-														</div>
-														<div class="caption">
-															<p class="name">Inverter SMA STP 25000TL (SMA 25 KW)</p>
-															<p class="wattage"></p>
-															<p class="view-more">Xem chi tiết</p>
-														</div>
-													</a>
-												</li>
-												<li>
-													<a class="product-item"
-													   href="https://www.ttcenergy.vn/thiet-bi-phu-kien/bo-chuyen-dien-inverter/may-phat-dien-ups-ak1000-mini-nang-luong-mat-troi-supercha"
-													   title="Máy Phát Điện UPS AK1000 Mini Năng Lượng Mặt Trời - Supercha">
-														<div class="img">
-															<img src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/Product/may-phat-dien-ups-ak1000-mini-nang-luong-mat-troi-supercha.jpg"
-															     alt="Máy Phát Điện UPS AK1000 Mini Năng Lượng Mặt Trời - Supercha">
-														</div>
-														<div class="caption">
-															<p class="name">Máy Phát Điện UPS AK1000 Mini Năng Lượng Mặt
-																Trời - Supercha</p>
-															<p class="wattage"></p>
-															<p class="view-more">Xem chi tiết</p>
-														</div>
-													</a>
-												</li>
-												<li>
-													<a class="product-item"
-													   href="https://www.ttcenergy.vn/thiet-bi-phu-kien/bo-chuyen-dien-inverter/sungrow-125kw-sg125cx-p2"
-													   title="Inverter Sungrow 125Kw SG125CX-P2">
-														<div class="img">
-															<img src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/Product/inverter-sungrow-sg125cxp2.png"
-															     alt="Inverter Sungrow 125Kw SG125CX-P2">
-														</div>
-														<div class="caption">
-															<p class="name">Inverter Sungrow 125Kw SG125CX-P2</p>
-															<p class="wattage"></p>
-															<p class="view-more">Xem chi tiết</p>
-														</div>
-													</a>
-												</li>
-												<li>
-													<a class="product-item"
-													   href="https://www.ttcenergy.vn/thiet-bi-phu-kien/bo-chuyen-dien-inverter/growatt-max100_125ktl3-x-lv"
-													   title="Inverter Growatt MAX100_125KTL3-X LV">
-														<div class="img">
-															<img src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/Product/inverter-h%C3%B2a-l%C6%B0%E1%BB%9Bi-125kw-%E2%80%93-growatt-max-125ktl3-lv.png"
-															     alt="Inverter Growatt MAX100_125KTL3-X LV">
-														</div>
-														<div class="caption">
-															<p class="name">Inverter Growatt MAX100_125KTL3-X LV</p>
-															<p class="wattage"></p>
-															<p class="view-more">Xem chi tiết</p>
-														</div>
-													</a>
-												</li>
-												<li>
-													<a class="product-item"
-													   href="https://www.ttcenergy.vn/thiet-bi-phu-kien/bo-chuyen-dien-inverter/fronius-tauro-50-100-kw"
-													   title="Inverter Fronius Tauro 50-100 KW">
-														<div class="img">
-															<img src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/Product/fronius_frn-tauroeco100-3-d.jpg"
-															     alt="Inverter Fronius Tauro 50-100 KW">
-														</div>
-														<div class="caption">
-															<p class="name">Inverter Fronius Tauro 50-100 KW</p>
-															<p class="wattage"></p>
-															<p class="view-more">Xem chi tiết</p>
-														</div>
-													</a>
-												</li>
-												<li>
-													<a class="product-item"
-													   href="https://www.ttcenergy.vn/thiet-bi-phu-kien/bo-chuyen-dien-inverter/growatt-4000-6000ue-technical-specification"
-													   title="Inverter Growatt-4000-6000UE-Technical-Specification">
-														<div class="img">
-															<img src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/Product/growatt-4000-6000ue.png"
-															     alt="Inverter Growatt-4000-6000UE-Technical-Specification">
-														</div>
-														<div class="caption">
-															<p class="name">Inverter
-																Growatt-4000-6000UE-Technical-Specification</p>
-															<p class="wattage"></p>
-															<p class="view-more">Xem chi tiết</p>
-														</div>
-													</a>
-												</li>
-												<li>
-													<a class="product-item"
-													   href="https://www.ttcenergy.vn/thiet-bi-phu-kien/bo-chuyen-dien-inverter/growatt-3000-6000-tl3-s"
-													   title="Inverter Growatt-3000-6000-TL3-S">
-														<div class="img">
-															<img src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/Product/3000-6000-tl3-s.png"
-															     alt="Inverter Growatt-3000-6000-TL3-S">
-														</div>
-														<div class="caption">
-															<p class="name">Inverter Growatt-3000-6000-TL3-S</p>
-															<p class="wattage"></p>
-															<p class="view-more">Xem chi tiết</p>
-														</div>
-													</a>
-												</li>
-												<li>
-													<a class="product-item"
-													   href="https://www.ttcenergy.vn/thiet-bi-phu-kien/bo-chuyen-dien-inverter/growatt-2500-5500-mtl-s"
-													   title="Inverter Growatt-2500-5500-MTL-S">
-														<div class="img">
-															<img src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/Product/growatt-2500-5500-mtl-s.png"
-															     alt="Inverter Growatt-2500-5500-MTL-S">
-														</div>
-														<div class="caption">
-															<p class="name">Inverter Growatt-2500-5500-MTL-S</p>
-															<p class="wattage"></p>
-															<p class="view-more">Xem chi tiết</p>
-														</div>
-													</a>
-												</li>
-												<li>
-													<a class="product-item"
-													   href="https://www.ttcenergy.vn/thiet-bi-phu-kien/bo-chuyen-dien-inverter/growatt-750-3000-s"
-													   title="Inverter Growatt 750-3000-S">
-														<div class="img">
-															<img src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/Product/inverter-growatt-750-3000-s.png"
-															     alt="Inverter Growatt 750-3000-S">
-														</div>
-														<div class="caption">
-															<p class="name">Inverter Growatt 750-3000-S</p>
-															<p class="wattage"></p>
-															<p class="view-more">Xem chi tiết</p>
-														</div>
-													</a>
-												</li>
-												<li>
-													<a class="product-item"
-													   href="https://www.ttcenergy.vn/thiet-bi-phu-kien/bo-chuyen-dien-inverter/bo-chuyen-dien-sungrow-sg110cx-3-phase"
-													   title="Bộ chuyển điện Sungrow SG110CX - 3 phase">
-														<div class="img">
-															<img src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/Product/bo-chuyen-dien-sungrow-sg110cx-3-phase.png"
-															     alt="Bộ chuyển điện Sungrow SG110CX - 3 phase">
-														</div>
-														<div class="caption">
-															<p class="name">Bộ chuyển điện Sungrow SG110CX - 3 phase</p>
-															<p class="wattage"></p>
-															<p class="view-more">Xem chi tiết</p>
-														</div>
-													</a>
-												</li>
-												<li>
-													<a class="product-item"
-													   href="https://www.ttcenergy.vn/thiet-bi-phu-kien/bo-chuyen-dien-inverter/bo-chuyen-dien-sungrow-sg5k-d-1-phase"
-													   title="Bộ Chuyển Điện Sungrow SG5K-D - 1 phase">
-														<div class="img">
-															<img src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/Product/bo-chuyen-dien-sungrow-sg5k-d--1-phase.png"
-															     alt="Bộ Chuyển Điện Sungrow SG5K-D - 1 phase">
-														</div>
-														<div class="caption">
-															<p class="name">Bộ Chuyển Điện Sungrow SG5K-D - 1 phase</p>
-															<p class="wattage"></p>
-															<p class="view-more">Xem chi tiết</p>
-														</div>
-													</a>
-												</li>
-												<li>
-													<a class="product-item"
-													   href="https://www.ttcenergy.vn/thiet-bi-phu-kien/bo-chuyen-dien-inverter/bo-chuyen-dien-pvs-sx-100-kw-3-phase"
-													   title="Bộ chuyển điện PVS-SX-100 kW - 3 Phase">
-														<div class="img">
-															<img src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/Product/bo-chuyen-dien-pvs-sx-100-kw-3-phase.png"
-															     alt="Bộ chuyển điện PVS-SX-100 kW - 3 Phase">
-														</div>
-														<div class="caption">
-															<p class="name">Bộ chuyển điện PVS-SX-100 kW - 3 Phase</p>
-															<p class="wattage"></p>
-															<p class="view-more">Xem chi tiết</p>
-														</div>
-													</a>
-												</li>
-												<li>
-													<a class="product-item"
-													   href="https://www.ttcenergy.vn/thiet-bi-phu-kien/bo-chuyen-dien-inverter/bo-chuyen-dien-growatt-3p-max-80ktl3-lv"
-													   title="Bộ chuyển điện GROWATT 3P MAX 80KTL3 LV">
-														<div class="img">
-															<img src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/Product/max-80ktl3_1.png"
-															     alt="Bộ chuyển điện GROWATT 3P MAX 80KTL3 LV">
-														</div>
-														<div class="caption">
-															<p class="name">Bộ chuyển điện GROWATT 3P MAX 80KTL3 LV</p>
-															<p class="wattage"></p>
-															<p class="view-more">Xem chi tiết</p>
-														</div>
-													</a>
-												</li>
-												<li>
-													<a class="product-item"
-													   href="https://www.ttcenergy.vn/thiet-bi-phu-kien/bo-chuyen-dien-inverter/bo-chuyen-dien-growatt-1p-min-5000-tl-x"
-													   title="Bộ chuyển điện GROWATT 1P MIN 5000 TL-X">
-														<div class="img">
-															<img src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/Product/b%E1%BB%99-chuy%E1%BB%83n-%C4%91i%E1%BB%87n-growatt-1p-min-5000-tl-x.png"
-															     alt="Bộ chuyển điện GROWATT 1P MIN 5000 TL-X">
-														</div>
-														<div class="caption">
-															<p class="name">Bộ chuyển điện GROWATT 1P MIN 5000 TL-X</p>
-															<p class="wattage"></p>
-															<p class="view-more">Xem chi tiết</p>
-														</div>
-													</a>
-												</li>
-											</ul>
-											<a class="uk-position-center-left uk-position-small" href="#"
-											   uk-slidenav-previous="" uk-slider-item="previous">
-      <span class="mdi mdi-chevron-left">
-      </span>
-											</a>
-											<a class="uk-position-center-right uk-position-small" href="#"
-											   uk-slidenav-next="" uk-slider-item="next">
-      <span class="mdi mdi-chevron-right">
-      </span>
-											</a>
-										</div>
+									<div class="caption">
+										<p class="name"><?php the_title()?></p>
+										<p class="wattage"></p>
+										<p class="view-more">Xem chi tiết</p>
 									</div>
-									<a class="btn-view-all"
-									   href="https://www.ttcenergy.vn/thiet-bi-phu-kien/bo-chuyen-dien-inverter"
-									   title="">TẤT CẢ SẢN PHẨM</a></div>
+								</a>
 							</div>
-						</div>
+						<?php endwhile;wp_reset_postdata();endif; ?>
+
 					</div>
-				</div>
+					<a class="btn-view-all"
+					   href="<?php bloginfo('url'); ?>/product/"
+					   title="">TẤT CẢ SẢN PHẨM</a>
+
 			</section>
 			<div class='Module Module-327'>
 				<div class='ModuleContent'>
@@ -956,7 +615,7 @@
 												<div class="bevel-content">
 													<div class="content">
 														<img src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/News/9.png"
-														     alt="Dự án đã thực hiện trên 25 tỉnh thành trong nước và tại Lào, Campuchia, Myanmar">
+														     alt="Dự án đã thực hiện trên 25 tỉnh thành ">
 													</div>
 												</div>
 												<div class="bevel bl br">
@@ -965,7 +624,7 @@
 										</div>
 										<div class="caption">
 											<span class="number">>183</span>
-											<span class="text">Dự án đã thực hiện trên 25 tỉnh thành trong nước và tại Lào, Campuchia, Myanmar</span>
+											<span class="text">Dự án đã thực hiện trên 25 tỉnh thành </span>
 										</div>
 									</div>
 								</div>
@@ -1698,48 +1357,50 @@
 							<div class="news-list">
 								<div class="uk-grid uk-grid-match" uk-grid="">
 									<div class="wrapper uk-width-2-3@l">
-										<div class="big-news uk-grid uk-grid-collapse uk-child-width-1-2@l" uk-grid="">
-											<div class="img">
-												<a href="https://www.ttcenergy.vn/tin-tuc/ttc-energy-dat-giai-thuong-top-50-doanh-nghiep-phat-trien-ben-vung-tieu-bieu-2023-1"
-												   title="TTC ENERGY ĐẠT GIẢI THƯỞNG “TOP 50 DOANH NGHIỆP PHÁT TRIỂN BỀN VỮNG TIÊU BIỂU” 2023">
-													<img src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/News/ttc-energy-%C4%91%E1%BA%A1t-gi%E1%BA%A3i-th%C6%B0%E1%BB%9Fng-top-50-dn-pt-b%E1%BB%81n-v%E1%BB%AFng-2023.png"
-													     alt="TTC ENERGY ĐẠT GIẢI THƯỞNG “TOP 50 DOANH NGHIỆP PHÁT TRIỂN BỀN VỮNG TIÊU BIỂU” 2023">
-												</a>
-											</div>
-											<div class="caption-wrapper">
-												<div class="caption">
-													<p class="title">
-														<a href="https://www.ttcenergy.vn/tin-tuc/ttc-energy-dat-giai-thuong-top-50-doanh-nghiep-phat-trien-ben-vung-tieu-bieu-2023-1"
-														   title="TTC ENERGY ĐẠT GIẢI THƯỞNG “TOP 50 DOANH NGHIỆP PHÁT TRIỂN BỀN VỮNG TIÊU BIỂU” 2023">TTC
-															ENERGY ĐẠT GIẢI THƯỞNG “TOP 50 DOANH NGHIỆP PHÁT TRIỂN
-															BỀN VỮNG TIÊU BIỂU” 2023</a>
-													</p>
-													<time>30/06/2023</time>
-													<p class="brief">
-													<p style="text-align: justify;"><strong><em><span
-																		style="font-size: 12pt; font-family: 'Times New Roman', serif;">Ngày 29/6/2023, Công ty CP Năng </span></em></strong><strong><em><span
-																		style="font-size: 12pt; font-family: 'Times New Roman', serif;">l</span></em></strong><strong><em><span
-																		style="font-size: 12pt; font-family: 'Times New Roman', serif;">ượng TTC (TTC Energy) được vinh danh </span></em></strong><strong><em><span
-																		style="font-size: 12pt; font-family: 'Times New Roman', serif;">là 1 trong “</span></em></strong><strong><em><span
-																		style="font-size: 12pt; font-family: 'Times New Roman', serif;">T</span></em></strong><strong><em><span
-																		style="font-size: 12pt; font-family: 'Times New Roman', serif;">op </span></em></strong><strong><em><span
-																		style="font-size: 12pt; font-family: 'Times New Roman', serif;">50 Doanh nghiệp phát triển bền vững tiêu biểu</span></em></strong><strong><em><span
-																		style="font-size: 12pt; font-family: 'Times New Roman', serif;">” </span></em></strong><strong><em><span
-																		style="font-size: 12pt; font-family: 'Times New Roman', serif;">2023 (Top 50 CSA)</span></em></strong><strong><em><span
-																		style="font-size: 12pt; font-family: 'Times New Roman', serif;"> tại</span></em></strong><strong><em><span
-																		style="font-size: 12pt; font-family: 'Times New Roman', serif;"> hạng mục</span></em></strong><em><span
-																	style="font-size: 12pt; font-family: 'Times New Roman', serif;"> <strong>Sản phẩm và dẫn dắt tiêu thụ có trách nhiệm</strong></span></em><strong><em><span
-																		style="font-size: 12pt; font-family: 'Times New Roman', serif;">.</span></em></strong>
-													</p></p>
+										<?php
+										$args = array(
+											'post_type' => 'post', // You can add a custom post type if you like
+											'offset'=>1,
+											'posts_per_page' => 3, // limit of posts,
+										);
+										$primary_query = new WP_Query($args);
+										wp_reset_query();
+										query_posts($args);
+										?>
+										<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
+											<div class="big-news uk-grid uk-grid-collapse uk-child-width-1-2@l" uk-grid="">
+												<div class="img">
+													<a href="<?php the_permalink()?>"
+													   title="<?php the_title()?>">
+														<?php if (has_post_thumbnail()): ?>
+															<?php the_post_thumbnail() ?>
+														<?php else: ?>
+															<img src="<?php bloginfo('template_url') ?>/images/default-no-img.jpg"
+															     alt="">
+														<?php endif; ?>
+													</a>
 												</div>
-												<a class="btn-skew"
-												   href="https://www.ttcenergy.vn/tin-tuc/ttc-energy-dat-giai-thuong-top-50-doanh-nghiep-phat-trien-ben-vung-tieu-bieu-2023-1"
-												   title="TTC ENERGY ĐẠT GIẢI THƯỞNG “TOP 50 DOANH NGHIỆP PHÁT TRIỂN BỀN VỮNG TIÊU BIỂU” 2023">
+												<div class="caption-wrapper">
+													<div class="caption">
+														<p class="title">
+															<a href="<?php the_permalink()?>"
+															   title="<?php the_title()?>"><?php the_title()?></a>
+														</p>
+														<time><?php echo get_the_date('d/m/Y')?></time>
+														<p class="brief">
+															<?php the_excerpt() ?>
+														</p>
+													</div>
+													<a class="btn-skew"
+													   href="https://www.ttcenergy.vn/tin-tuc/ttc-energy-dat-giai-thuong-top-50-doanh-nghiep-phat-trien-ben-vung-tieu-bieu-2023-1"
+													   title="TTC ENERGY ĐẠT GIẢI THƯỞNG “TOP 50 DOANH NGHIỆP PHÁT TRIỂN BỀN VỮNG TIÊU BIỂU” 2023">
                 <span class="lnr lnr-arrow-right">
                 </span>
-												</a>
+													</a>
+												</div>
 											</div>
-										</div>
+										<?php endwhile;wp_reset_postdata();endif; ?>
+
 									</div>
 									<div class="wrapper uk-width-1-3@l">
 										<div class="side-news-list-wrapper">
@@ -1749,62 +1410,31 @@
 											</div>
 											<div class="side-news-list">
 												<div class="uk-grid uk-child-width-1-1" uk-grid="">
-													<div class="wrapper">
-														<a class="side-news"
-														   href="https://www.ttcenergy.vn/tin-tuc/dien-mat-troi-mai-nha-giup-doanh-nghiep-som-dat-muc-tieu-xanh-hoa"
-														   title="Điện mặt trời mái nhà: Giúp doanh nghiệp sớm đạt mục tiêu &quot;xanh hóa&quot;">
-															<div class="date">
-																<span class="day">04</span>
-																<span class="month">05-2023</span>
-															</div>
-															<div class="title">
-																<p>Điện mặt trời mái nhà: Giúp doanh nghiệp sớm đạt mục
-																	tiêu "xanh hóa"</p>
-															</div>
-														</a>
-													</div>
-													<div class="wrapper">
-														<a class="side-news"
-														   href="https://www.ttcenergy.vn/tin-tuc/ttc-energy-vinh-du-don-nhan-giai-thuong-thuong-hieu-vang-tphcm-lan-3-nam-2022"
-														   title="TTC Energy Vinh Dự Đón Nhận Giải Thưởng “Thương Hiệu Vàng TP.HCM” Lần 3 Năm 2022">
-															<div class="date">
-																<span class="day">09</span>
-																<span class="month">01-2023</span>
-															</div>
-															<div class="title">
-																<p>TTC Energy Vinh Dự Đón Nhận Giải Thưởng “Thương Hiệu
-																	Vàng TP.HCM” Lần 3 Năm 2022</p>
-															</div>
-														</a>
-													</div>
-													<div class="wrapper">
-														<a class="side-news"
-														   href="https://www.ttcenergy.vn/tin-tuc/doanh-nhan-dang-huynh-anh-tuan-chu-tich-hdqt-ttc-energy-sn-sang-cho-nhung-dinh-huong-moi"
-														   title="Doanh Nhân Đặng Huỳnh Anh Tuấn - Chủ tịch HĐQT TTC Energy Sẵn Sàng Cho Những Định Hướng Mới">
-															<div class="date">
-																<span class="day">04</span>
-																<span class="month">01-2023</span>
-															</div>
-															<div class="title">
-																<p>Doanh Nhân Đặng Huỳnh Anh Tuấn - Chủ tịch HĐQT TTC
-																	Energy Sẵn Sàng Cho Những Định Hướng Mới</p>
-															</div>
-														</a>
-													</div>
-													<div class="wrapper">
-														<a class="side-news"
-														   href="https://www.ttcenergy.vn/tin-tuc/dien-mat-troi-ap-mai-giai-phap-giam-chi-phi-chu-dong-nguon-dien"
-														   title="Điện Mặt Trời Áp Mái Giải Pháp Giảm Chi Phí, Chủ Động Nguồn Điện">
-															<div class="date">
-																<span class="day">03</span>
-																<span class="month">01-2023</span>
-															</div>
-															<div class="title">
-																<p>Điện Mặt Trời Áp Mái Giải Pháp Giảm Chi Phí, Chủ Động
-																	Nguồn Điện</p>
-															</div>
-														</a>
-													</div>
+													<?php
+													$args = array(
+														'post_type' => 'post', // You can add a custom post type if you like
+														'offset'=>1,
+														'posts_per_page' => 3, // limit of posts,
+													);
+													$primary_query = new WP_Query($args);
+													wp_reset_query();
+													query_posts($args);
+													?>
+													<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
+														<div class="wrapper">
+															<a class="side-news"
+															   href="<?php the_permalink()?>"
+															   title="<?php the_title()?>">
+																<div class="date">
+																	<span class="day"><?php echo get_the_date('d'); ?></span>
+																	<span class="month"><?php echo get_the_date('m-Y'); ?></span>
+																</div>
+																<div class="title">
+																	<p><?php the_title()?></p>
+																</div>
+															</a>
+														</div>
+													<?php endwhile;wp_reset_postdata();endif; ?>
 												</div>
 											</div>
 										</div>
@@ -1818,172 +1448,6 @@
 
 		</div>
 
-		<div id="ctl00_divAltContent2" class="altcontent2 cmszone">
 
-			<div class="form-receive-quotation-modal" id="form-receive-quotation-modal" style="display: none;">
-				<div class="form-title">
-					<div class='Module Module-298'>
-						<div class='ModuleContent'><h3>Nhận báo giá</h3>
-							<p>Nhận kết quả số tiền sinh lời &amp; hệ thống Điện Mặt Trời phù hợp cho nhu cầu của
-								bạn.</p></div>
-					</div>
-				</div>
-				<div class='Module Module-297'>
-					<div class='ModuleContent'>
-						<div id="ctl00_altContent2_ctl01_pnlFormWizard">
-
-							<div id="ctl00_altContent2_ctl01_pnlForm" class="wrap-form"
-							     onkeypress="javascript:return WebForm_FireDefaultButton(event, &#39;ctl00_altContent2_ctl01_btnSubmit&#39;)">
-
-
-								<div id="ctl00_altContent2_ctl01_pnlQuestions">
-									<div class="form-group qtext require "><input
-												name="ctl00$altContent2$ctl01$ctld23f868509024e22abb6c3bae8018a4e$txtd23f868509024e22abb6c3bae8018a4e"
-												type="text"
-												id="ctl00_altContent2_ctl01_ctld23f868509024e22abb6c3bae8018a4e_txtd23f868509024e22abb6c3bae8018a4e"
-												placeholder="Họ và tên*"/><span
-												id="ctl00_altContent2_ctl01_ctld23f868509024e22abb6c3bae8018a4e_vald23f868509024e22abb6c3bae8018a4e"
-												class="fa fa-exclamation-triangle" style="display:none;">Vui lòng nhập Họ và tên.</span>
-									</div>
-									<div class="form-group qtext require "><input
-												name="ctl00$altContent2$ctl01$ctl659d5ab5daad4d6ba00bcc5fa33039ee$txt659d5ab5daad4d6ba00bcc5fa33039ee"
-												type="text" size="30"
-												id="ctl00_altContent2_ctl01_ctl659d5ab5daad4d6ba00bcc5fa33039ee_txt659d5ab5daad4d6ba00bcc5fa33039ee"
-												placeholder="Email*"/><span
-												id="ctl00_altContent2_ctl01_ctl659d5ab5daad4d6ba00bcc5fa33039ee_val659d5ab5daad4d6ba00bcc5fa33039ee"
-												class="fa fa-exclamation-triangle" style="display:none;">Vui lòng nhập Email.</span><span
-												id="ctl00_altContent2_ctl01_ctl659d5ab5daad4d6ba00bcc5fa33039ee_ctl00"
-												class="fa fa-exclamation-triangle" style="display:none;"></span></div>
-									<div class="form-group qtext require "><input
-												name="ctl00$altContent2$ctl01$ctlfb3e95d59a0141329eb14bef891d4017$txtfb3e95d59a0141329eb14bef891d4017"
-												type="text"
-												id="ctl00_altContent2_ctl01_ctlfb3e95d59a0141329eb14bef891d4017_txtfb3e95d59a0141329eb14bef891d4017"
-												placeholder="Số điện thoại*"/><span
-												id="ctl00_altContent2_ctl01_ctlfb3e95d59a0141329eb14bef891d4017_valfb3e95d59a0141329eb14bef891d4017"
-												class="fa fa-exclamation-triangle" style="display:none;">Vui lòng nhập Số điện thoại.</span>
-									</div>
-									<div class="form-group qcustom ">
-										<div id="ctl00_altContent2_ctl01_ctl1e7c14d7b0ca4a99a867c42f0f62a50f">
-											<label for="ctl00_altContent2_ctl01_uc1e7c14d7b0ca4a99a867c42f0f62a50f"
-											       id="ctl00_altContent2_ctl01_lbl1e7c14d7b0ca4a99a867c42f0f62a50f"
-											       class="settinglabel">Tỉnh/Thành phố *</label>
-											<div id="ctl00_altContent2_ctl01_uc1e7c14d7b0ca4a99a867c42f0f62a50f_UpdatePanel1">
-
-
-												<div class="settingrow">
-													<select name="ctl00$altContent2$ctl01$uc1e7c14d7b0ca4a99a867c42f0f62a50f$ddGeoZone"
-													        id="ctl00_altContent2_ctl01_uc1e7c14d7b0ca4a99a867c42f0f62a50f_ddGeoZone">
-														<option value="TP Hồ Chí Minh">TP Hồ Ch&#237; Minh</option>
-														<option value="Hà Nội">H&#224; Nội</option>
-														<option value="An Giang">An Giang</option>
-														<option value="Bà Rịa-Vũng Tàu">B&#224; Rịa-Vũng T&#224;u
-														</option>
-														<option value="Bắc Cạn">Bắc Cạn</option>
-														<option value="Bắc Giang">Bắc Giang</option>
-														<option value="Bạc Liêu">Bạc Li&#234;u</option>
-														<option value="Bắc Ninh">Bắc Ninh</option>
-														<option value="Bến Tre">Bến Tre</option>
-														<option value="Bình Định">B&#236;nh Định</option>
-														<option value="Bình Dương">B&#236;nh Dương</option>
-														<option value="Bình Phước">B&#236;nh Phước</option>
-														<option value="Bình Thuận">B&#236;nh Thuận</option>
-														<option value="Cà Mau">C&#224; Mau</option>
-														<option value="Cần Thơ">Cần Thơ</option>
-														<option value="Cao Bằng">Cao Bằng</option>
-														<option value="Đà Nẵng">Đ&#224; Nẵng</option>
-														<option value="Đắc Nông">Đắc N&#244;ng</option>
-														<option value="Đắk Lắk">Đắk Lắk</option>
-														<option value="Điện Biên">Điện Bi&#234;n</option>
-														<option value="Đồng Nai">Đồng Nai</option>
-														<option value="Đồng Tháp">Đồng Th&#225;p</option>
-														<option value="Gia Lai">Gia Lai</option>
-														<option value="Hà Giang">H&#224; Giang</option>
-														<option value="Hà Nam">H&#224; Nam</option>
-														<option value="Hà Tĩnh">H&#224; Tĩnh</option>
-														<option value="Hải Dương">Hải Dương</option>
-														<option value="Hải Phòng">Hải Ph&#242;ng</option>
-														<option value="Hậu Giang">Hậu Giang</option>
-														<option value="Hoà Bình">Ho&#224; B&#236;nh</option>
-														<option value="Hưng Yên">Hưng Y&#234;n</option>
-														<option value="Khánh Hòa">Kh&#225;nh H&#242;a</option>
-														<option value="Kiên Giang">Ki&#234;n Giang</option>
-														<option value="Kon Tum">Kon Tum</option>
-														<option value="Lai Châu">Lai Ch&#226;u</option>
-														<option value="Lâm Đồng">L&#226;m Đồng</option>
-														<option value="Lạng Sơn">Lạng Sơn</option>
-														<option value="Lào Cai">L&#224;o Cai</option>
-														<option value="Long An">Long An</option>
-														<option value="Nam Định">Nam Định</option>
-														<option value="Nghệ An">Nghệ An</option>
-														<option value="Ninh Bình">Ninh B&#236;nh</option>
-														<option value="Ninh Thuận">Ninh Thuận</option>
-														<option value="Phú Thọ">Ph&#250; Thọ</option>
-														<option value="Phú Yên">Ph&#250; Y&#234;n</option>
-														<option value="Quảng Bình">Quảng B&#236;nh</option>
-														<option value="Quảng Nam">Quảng Nam</option>
-														<option value="Quảng Ngãi">Quảng Ng&#227;i</option>
-														<option value="Quảng Ninh">Quảng Ninh</option>
-														<option value="Quảng Trị">Quảng Trị</option>
-														<option value="Sóc Trăng">S&#243;c Trăng</option>
-														<option value="Sơn La">Sơn La</option>
-														<option value="Tây Ninh">T&#226;y Ninh</option>
-														<option value="Thái Bình">Th&#225;i B&#236;nh</option>
-														<option value="Thái Nguyên">Th&#225;i Nguy&#234;n</option>
-														<option value="Thanh Hóa">Thanh H&#243;a</option>
-														<option value="Thừa Thiên-Huế">Thừa Thi&#234;n-Huế</option>
-														<option value="Tiền Giang">Tiền Giang</option>
-														<option value="Trà Vinh">Tr&#224; Vinh</option>
-														<option value="Tuyên Quang">Tuy&#234;n Quang</option>
-														<option value="Vĩnh Long">Vĩnh Long</option>
-														<option value="Vĩnh Phúc">Vĩnh Ph&#250;c</option>
-														<option value="Yên Bái">Y&#234;n B&#225;i</option>
-
-													</select>
-												</div>
-
-											</div>
-										</div>
-									</div>
-									<div class="form-group qtext uk-hidden hdsolutiontype"><input
-												name="ctl00$altContent2$ctl01$ctl2322238ada9047c0948623e036436ded$txt2322238ada9047c0948623e036436ded"
-												type="text"
-												id="ctl00_altContent2_ctl01_ctl2322238ada9047c0948623e036436ded_txt2322238ada9047c0948623e036436ded"
-												placeholder="Loại giải pháp"/><span
-												id="ctl00_altContent2_ctl01_ctl2322238ada9047c0948623e036436ded_val2322238ada9047c0948623e036436ded"
-												class="fa fa-exclamation-triangle" style="display:none;">Vui lòng nhập Loại giải pháp.</span>
-									</div>
-								</div>
-
-								<div id="ctl00_altContent2_ctl01_up1" style="display:none;">
-
-									<img src='/Data/SiteImages/indicators/indicator1.gif' alt=' '/>
-
-								</div>
-								<div class="form-group frm-btnwrap">
-									<label class="label">&nbsp;</label>
-									<div class="frm-btn">
-
-										<input type="submit" name="ctl00$altContent2$ctl01$btnSubmit" value="Gửi"
-										       onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$altContent2$ctl01$btnSubmit&quot;, &quot;&quot;, true, &quot;formwizard012568be-d46c-4116-a9bd-44cd59deb176&quot;, &quot;&quot;, false, false))"
-										       id="ctl00_altContent2_ctl01_btnSubmit"
-										       class="btn btn-default frm-btn-submit"/>
-										<input name="ctl00$altContent2$ctl01$btnReset" type="reset"
-										       id="ctl00_altContent2_ctl01_btnReset"
-										       class="btn btn-default frm-btn-reset" value="Xóa"/>
-										<input type="hidden" name="ctl00$altContent2$ctl01$hdnResponseSetGuid"
-										       id="ctl00_altContent2_ctl01_hdnResponseSetGuid"/>
-									</div>
-								</div>
-								<div class="clear"></div>
-
-							</div>
-
-
-						</div>
-					</div>
-				</div>
-			</div>
-
-		</div>
 	</main>
 <?php get_footer()?>
