@@ -146,8 +146,8 @@
 						<div class='ModuleContent'>
 							<div class="heading uk-flex">
 								<div class="section-title section-title-white">
-									<p>TTC ENERGY CUNG CẤP GIẢI PHÁP TỐI ƯU</p>
-									<h3>Giải pháp TTC ENERGY</h3>
+									<p>Golden Dragon CUNG CẤP GIẢI PHÁP TỐI ƯU</p>
+									<h3>Giải pháp Golden Dragon</h3>
 								</div>
 								<div class="tab-switcher">
 									<ul uk-switcher="connect: .tabs-container">
@@ -538,7 +538,7 @@
 					         style="background-image: url(<?php bloginfo('template_directory'); ?>/Data/Sites/1/skins/default/img/bg-4.jpg)">
 						<div class="uk-container">
 							<div class="section-title section-title-white uk-text-center">
-								<p>TTC ENERGY KHÔNG NGỪNG PHÁT TRIỂN</p>
+								<p>Golden Dragon KHÔNG NGỪNG PHÁT TRIỂN</p>
 								<h3>Những con số ấn tượng</h3>
 							</div>
 							<div class="uk-grid uk-child-width-1-4@l uk-child-width-1-2@s" uk-grid="">
@@ -1273,7 +1273,7 @@
 													<span class="number">02</span>
 													<p class="title">Thiết kế</p>
 													<div class="content"><p style="text-align: justify;">Dựa trên kết
-															quả khảo sát, TTC Energy tiến hành tính toán tải trọng, công
+															quả khảo sát, Golden Dragon tiến hành tính toán tải trọng, công
 															suất lắp đặt dựa trên thông số chính xác với điều kiện cơ sở
 															hạ tầng và vị trí lắp đặt của từng Khách hàng, mang lại
 															phương án tối ưu nhất về chi phí và năng suất điện sản sinh
@@ -1294,7 +1294,7 @@
 													<p class="title">Lắp đặt/ Vận hành</p>
 													<div class="content"><p style="text-align: justify;">Lấy an toàn và
 															chất lượng làm điều kiện tiên quyết trong quá trình lắp đặt
-															và vận hành hệ thống. TTC Energy sử dụng đội ngũ kỹ thuật
+															và vận hành hệ thống. Golden Dragon sử dụng đội ngũ kỹ thuật
 															viên chuyên nghiệp, được đào tạo và kinh nghiệm lâu năm
 															trong việc thi công hệ thống.&nbsp;<br/>
 														</p>
@@ -1352,7 +1352,7 @@
 				<div class='ModuleContent'>
 					<section class="home-8 uk-section-large">
 						<div class="uk-container">
-							<div class="section-title uk-text-center"><p>MỚI NHẤT TỪ TTC ENERGY</p>
+							<div class="section-title uk-text-center"><p>MỚI NHẤT TỪ Golden Dragon</p>
 								<h3>TIN TỨC & SỰ KIỆN</h3></div>
 							<div class="news-list">
 								<div class="uk-grid uk-grid-match" uk-grid="">
@@ -1393,7 +1393,7 @@
 													</div>
 													<a class="btn-skew"
 													   href="https://www.ttcenergy.vn/tin-tuc/ttc-energy-dat-giai-thuong-top-50-doanh-nghiep-phat-trien-ben-vung-tieu-bieu-2023-1"
-													   title="TTC ENERGY ĐẠT GIẢI THƯỞNG “TOP 50 DOANH NGHIỆP PHÁT TRIỂN BỀN VỮNG TIÊU BIỂU” 2023">
+													   title="Golden Dragon ĐẠT GIẢI THƯỞNG “TOP 50 DOANH NGHIỆP PHÁT TRIỂN BỀN VỮNG TIÊU BIỂU” 2023">
                 <span class="lnr lnr-arrow-right">
                 </span>
 													</a>

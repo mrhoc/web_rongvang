@@ -80,11 +80,7 @@
 								<ul>
 									<li><a href="#"><span
 													class="mdi mdi-facebook"></span></a></li>
-									<li>
-										<a href="#"><span
-													class="mdi mdi-youtube-play"></span></a></li>
-									<li><a href="#"><span
-													class="mdi mdi-linkedin"></span></a></li>
+
 								</ul>
 							</div>
 						</div>

@@ -21,7 +21,7 @@
 	<link rel='stylesheet' type='text/css' href='<?php bloginfo('template_directory'); ?>/Data/Sites/1/skins/default/css/core.min.css'/>
 	<link rel='stylesheet' type='text/css' href='<?php bloginfo('template_directory'); ?>/Data/Sites/1/skins/default/css/main.min.css'/>
 	<link rel='stylesheet' type='text/css' href='<?php bloginfo('template_directory'); ?>/Data/Sites/1/skins/default/css/custom.css'/>
-	<link rel='shortcut icon' href='<?php bloginfo('template_directory'); ?>/Data/Sites/1/skins/default/favicon.ico'/>
+	<link rel='shortcut icon' href='<?php bloginfo('template_directory'); ?>/Data/Sites/1/skins/default/img/logo.png'/>
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" type="text/javascript"></script>
 	<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/jquery-ui.min.js" type="text/javascript"></script>
 	<style>
@@ -45,7 +45,7 @@
 				<div class="header-left">
 					<div class="logo">
 						<div class='Module Module-206'>
-							<div class='ModuleContent'><a href="<?php bloginfo('url'); ?>/"><img alt="" width="100px" src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/skins/default/img/logo.png"/></a>
+							<div class='ModuleContent'><a href="<?php bloginfo('url'); ?>/"><img alt="" width="100px" src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/skins/default/img/logo.svg"/></a>
 							</div>
 						</div>
 					</div>
@@ -74,11 +74,7 @@
 									<div class='ModuleContent'><p>Theo doi</p>
 										<div class="header-social-items"><a
 												href="#"><span
-													class="mdi mdi-facebook"></span></a><a
-												href="#"><span
-													class="mdi mdi-youtube-play"></span></a><a
-												href="#"><span
-													class="mdi mdi-linkedin"></span></a></div>
+													class="mdi mdi-facebook"></span></a></div>
 									</div>
 								</div>
 							</div>
@@ -157,7 +153,6 @@
 												</ul>
 											</div>
 										</li>
-										<li><a href="<?php bloginfo('url'); ?>/tin-tuc" title="Liên hệ">Tin tức</a></li>
 										<li><a href="<?php bloginfo('url'); ?>/faqs" title="Liên hệ">Câu hỏi thường gặp</a></li>
 										<li><a href="<?php bloginfo('url'); ?>/lien-he" title="Liên hệ">Liên hệ</a></li>
 									</ul>

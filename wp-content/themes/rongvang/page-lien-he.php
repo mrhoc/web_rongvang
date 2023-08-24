@@ -98,8 +98,7 @@
 									<div class="social">
 										<a href="#"><span
 													class="fab fa-facebook-f"></span></a>
-										<a href="#"><span class="fab fa-youtube"></span></a>
-										<a href="#"><span class="mdi mdi-linkedin"></span></a>
+
 									</div>
 								</div>
 							</div>

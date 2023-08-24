@@ -59,13 +59,12 @@
 								<p>Năng lượng là nền tảng cho sự tăng trưởng và phát triển của mọi ngành Kinh Tế - Xã
 									Hội.&nbsp;<br>
 								</p>
-								<p>Ra đời với sứ mệnh “Vì cộng đồng - Kiến tạo giá trị bền vững”, Công ty Cổ phần Năng
-									Lượng TTC (TTC Energy) tạo sự khác biệt từ chất lượng sản phẩm đến tiêu chuẩn dịch
-									vụ hàng đầu. TTC Energy cung cấp giải pháp tối ưu cho bài toán thiếu hụt năng lượng
+								<p>Ra đời với sứ mệnh “Vì cộng đồng - Kiến tạo giá trị bền vững”, Golden Dragon tạo sự khác biệt từ chất lượng sản phẩm đến tiêu chuẩn dịch
+									vụ hàng đầu. Golden Dragon cung cấp giải pháp tối ưu cho bài toán thiếu hụt năng lượng
 									với giá trị kinh tế cao, lâu dài và bền vững.&nbsp;&nbsp;<br>
 								</p>
 								<p>Điện Mặt Trời Mái Nhà còn góp phần giảm thải khí C02, tiết kiệm tài nguyên quốc gia.
-									Từ đó, cùng với Đối Tác và Khách Hàng, TTC Energy thể hiện trách nhiệm với môi
+									Từ đó, cùng với Đối Tác và Khách Hàng, Golden Dragon thể hiện trách nhiệm với môi
 									trường và nâng cao chất lượng đời sống cộng đồng.<br>
 								</p>
 								<div>&nbsp;</div>
@@ -104,8 +103,8 @@
 												</div>
 												<div class="wrapper uk-width-1-3@l">
 													<div class="content-wrapper">
-														<p class="title">TTC Energy 2023</p>Ngày 29/6/2023, Công ty CP
-														Năng lượng TTC (TTC Energy) được vinh danh là 1 trong “Top 50
+														<p class="title">Golden Dragon 2023</p>Ngày 29/6/2023, Công ty CP
+														Năng lượng TTC (Golden Dragon) được vinh danh là 1 trong “Top 50
 														Doanh nghiệp phát triển bền vững tiêu biểu” 2023 (Top 50
 														CSA) tại hạng mục Sản phẩm và dẫn dắt tiêu thụ có trách
 														nhiệm.<br></div>
@@ -121,7 +120,7 @@
 												<div class="wrapper uk-width-1-3@l">
 													<div class="img">
 														<img src="<?php bloginfo('template_url') ?>/images/default-no-img.jpg"
-														     alt="TTC Energy 2022">
+														     alt="Golden Dragon 2022">
 													</div>
 												</div>
 												<div class="wrapper uk-width-1-6@l">
@@ -132,9 +131,9 @@
 												</div>
 												<div class="wrapper uk-width-1-3@l">
 													<div class="content-wrapper">
-														<p class="title">TTC Energy 2022</p>Với những nỗ lực không ngừng
+														<p class="title">Golden Dragon 2022</p>Với những nỗ lực không ngừng
 														cùng vị thế tiên phong trong lĩnh vực điện mặt trời áp mái tại
-														Việt Nam, TTC Energy vinh dự được vinh danh TOP 10 Thương Hiệu
+														Việt Nam, Golden Dragon vinh dự được vinh danh TOP 10 Thương Hiệu
 														Mạnh ASEAN - ASEAN Brand Award 2022.<br></div>
 												</div>
 												<div class="wrapper-empty uk-first-column">
@@ -148,7 +147,7 @@
 												<div class="wrapper uk-width-1-3@l">
 													<div class="img">
 														<img src="<?php bloginfo('template_url') ?>/images/default-no-img.jpg"
-														     alt="TTC Energy 2021">
+														     alt="Golden Dragon 2021">
 													</div>
 												</div>
 												<div class="wrapper uk-width-1-6@l">
@@ -159,8 +158,8 @@
 												</div>
 												<div class="wrapper uk-width-1-3@l">
 													<div class="content-wrapper">
-														<p class="title">TTC Energy 2021</p><span
-																style="text-align: justify; font-size: 14px; font-family: 'Segoe UI';">TTC Energy được trao chứng nhận Dự án Năng lượng mặt trời mái nhà tiêu biểu trong Khu Công Nghiệp cho Hệ thống điện mặt trời mái nhà Duy Tân (Long An) do Phòng Thương mại và Công nghiệp (VCCI) tổ chức.&nbsp;</span>
+														<p class="title">Golden Dragon 2021</p><span
+																style="text-align: justify; font-size: 14px; font-family: 'Segoe UI';">Golden Dragon được trao chứng nhận Dự án Năng lượng mặt trời mái nhà tiêu biểu trong Khu Công Nghiệp cho Hệ thống điện mặt trời mái nhà Duy Tân (Long An) do Phòng Thương mại và Công nghiệp (VCCI) tổ chức.&nbsp;</span>
 													</div>
 												</div>
 												<div class="wrapper-empty">
@@ -174,7 +173,7 @@
 												<div class="wrapper uk-width-1-3@l">
 													<div class="img">
 														<img src="<?php bloginfo('template_url') ?>/images/default-no-img.jpg"
-														     alt="TTC Energy 2020">
+														     alt="Golden Dragon 2020">
 													</div>
 												</div>
 												<div class="wrapper uk-width-1-6@l">
@@ -185,9 +184,9 @@
 												</div>
 												<div class="wrapper uk-width-1-3@l">
 													<div class="content-wrapper">
-														<p class="title">TTC Energy 2020</p>
+														<p class="title">Golden Dragon 2020</p>
 														<p style="font-size: medium; font-family: 'Times New Roman', serif; text-align: justify;">
-															<span style="font-size: 14px; font-family: Roboto, sans-serif;">TTC Energy được trao chứng nhận Dự án Năng lượng tái tạo tiêu biểu Việt Nam năm 2020 cho Hệ thống điện mặt trời mái nhà De Heus (Đồng Nai) do Phòng Thương mại và Công nghiệp (VCCI) tổ chức.&nbsp;</span>
+															<span style="font-size: 14px; font-family: Roboto, sans-serif;">Golden Dragon được trao chứng nhận Dự án Năng lượng tái tạo tiêu biểu Việt Nam năm 2020 cho Hệ thống điện mặt trời mái nhà De Heus (Đồng Nai) do Phòng Thương mại và Công nghiệp (VCCI) tổ chức.&nbsp;</span>
 														</p></div>
 												</div>
 												<div class="wrapper-empty uk-first-column">
@@ -200,7 +199,7 @@
 												</div>
 												<div class="wrapper uk-width-1-3@l">
 													<div class="img">
-														<img src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/News/lh.jpg" alt="TTC Energy 2019">
+														<img src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/News/lh.jpg" alt="Golden Dragon 2019">
 													</div>
 												</div>
 												<div class="wrapper uk-width-1-6@l">
@@ -211,12 +210,12 @@
 												</div>
 												<div class="wrapper uk-width-1-3@l">
 													<div class="content-wrapper">
-														<p class="title">TTC Energy 2019</p>
+														<p class="title">Golden Dragon 2019</p>
 														<ul>
 															<li style="text-align: justify;">Cùng với việc đưa TTC
 																Energy chi nhánh Cần Thơ vào hoạt động nhằm mở rộng mạng
 																lưới hoạt động, nâng cao chất lượng dịch vụ cho Khách
-																hàng, TTC Energy còn thành lập Công ty TNHH Năng lượng
+																hàng, Golden Dragon còn thành lập Công ty TNHH Năng lượng
 																TTC Campuchia nhằm mục đích phát triển thị trường đầy
 																tiềm năng và kinh tế này.
 															</li>
@@ -239,7 +238,7 @@
 												<div class="wrapper uk-width-1-3@l">
 													<div class="img">
 														<img src="<?php bloginfo('template_url') ?>/images/default-no-img.jpg"
-														     alt="TTC Energy 2017">
+														     alt="Golden Dragon 2017">
 													</div>
 												</div>
 												<div class="wrapper uk-width-1-6@l">
@@ -250,9 +249,9 @@
 												</div>
 												<div class="wrapper uk-width-1-3@l">
 													<div class="content-wrapper">
-														<p class="title">TTC Energy 2017</p>
+														<p class="title">Golden Dragon 2017</p>
 														<p style="text-align: justify;">Ngày 16/02/2017 Công ty CP Năng
-															lượng TTC (TTC Energy) chính thức được thành lập với chuyên
+															lượng TTC (Golden Dragon) chính thức được thành lập với chuyên
 															môn hoạt động trong lĩnh vực điện mặt trời áp mái.<br>
 														</p>
 														<div style="text-align: justify;">&nbsp;</div>
@@ -269,7 +268,7 @@
 												<div class="wrapper uk-width-1-3@l">
 													<div class="img">
 														<img src="<?php bloginfo('template_url') ?>/images/default-no-img.jpg"
-														     alt="TTC Energy 2016">
+														     alt="Golden Dragon 2016">
 													</div>
 												</div>
 												<div class="wrapper uk-width-1-6@l">
@@ -280,7 +279,7 @@
 												</div>
 												<div class="wrapper uk-width-1-3@l">
 													<div class="content-wrapper">
-														<p class="title">TTC Energy 2016</p>
+														<p class="title">Golden Dragon 2016</p>
 														<p style="text-align: justify;">Ngày 30/6/2016, Tập đoàn TTC
 															cùng với Tổ chức Tài chính Quốc tế (IFC) và Quỹ Năng lượng
 															sạch Armstrong (Singapore) đã chính thức ký kết hợp tác
@@ -301,7 +300,7 @@
 												<div class="wrapper uk-width-1-3@l">
 													<div class="img">
 														<img src="<?php bloginfo('template_url') ?>/images/default-no-img.jpg"
-														     alt="TTC Energy 2013">
+														     alt="Golden Dragon 2013">
 													</div>
 												</div>
 												<div class="wrapper uk-width-1-6@l">
@@ -312,7 +311,7 @@
 												</div>
 												<div class="wrapper uk-width-1-3@l">
 													<div class="content-wrapper">
-														<p class="title">TTC Energy 2013</p>
+														<p class="title">Golden Dragon 2013</p>
 														<p style="text-align: justify;">Với tiền thân là Công ty Cổ phần
 															Điện Gia Lai (GEC) được thành lập từ năm 1989, ngày
 															18/01/2013 GEC chính thức trở thành thành viên của Tập đoàn
