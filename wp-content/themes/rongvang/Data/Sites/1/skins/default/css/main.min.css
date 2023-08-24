@@ -10439,7 +10439,8 @@ header {
       margin-bottom: -100px;
       height: 290px; }
       .home-3 .product-item .img img {
-        height: 100%; }
+        height: 100%;
+        object-fit: cover}
     .home-3 .product-item .caption {
       background: #fff;
       padding-top: 130px;
@@ -10447,12 +10448,10 @@ header {
       border-radius: 8px;
       transition: 0.3s all; }
     .home-3 .product-item:hover .caption {
-      background: #f55f53;
-      color: #fff; }
+
+    }
       .home-3 .product-item:hover .caption .view-more {
-        background: transparent;
-        color: #fff;
-        border: 1px solid #959595; }
+        }
   .home-3 .uk-slidenav {
     top: auto;
     bottom: 131px; }
@@ -12970,3 +12969,6 @@ header {
   @media screen and (max-width: 576px) {
     .solution-7 .item {
       padding: 30px 50px; } }
+.home-3 .wrapper{
+  margin-bottom: 30px;
+}
