@@ -166,3 +166,25 @@ function get_data_field($label,$field_name){
 
 	}
 }
+function remove_content_auto_line_breaks() {
+	// Remove the auto-paragraph and auto-line-break from the content
+	remove_filter( 'the_content', 'wpautop' );
+
+	// Remove the auto-paragraph and auto-line-break from the excerpt
+	remove_filter( 'the_excerpt', 'wpautop' );
+}
+
+// Execute the function
+remove_content_auto_line_breaks();
+
+
+function add_paragraphs_to_blogs_content($content) {
+	// Kiểm tra nếu là loại bài viết "blogs"
+	if (is_singular('product') || is_singular('cau_hoi_thuong_gap')) {
+		// Thêm thẻ <p> vào các đoạn văn trong nội dung bài viết
+		$content = wpautop($content);
+	}
+
+	return $content;
+}
+add_filter('the_content', 'add_paragraphs_to_blogs_content');

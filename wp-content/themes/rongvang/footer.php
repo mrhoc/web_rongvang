@@ -5,8 +5,8 @@
 				<div class="wrapper uk-width-1-6@l uk-width-1-2@s">
 					<div class="logo">
 						<div class='Module Module-213'>
-							<div class='ModuleContent'><img alt=""
-							                                src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/skins/default/img/logo.svg"/>
+							<div class='ModuleContent'><img alt="" style="display: block;margin: 0 auto 20px;"
+							                                src="<?php bloginfo('template_directory'); ?>/Data/Sites/1/skins/default/img/logo.svg" width="175"/>
 							</div>
 						</div>
 					</div>
@@ -65,7 +65,7 @@
 						<div class='ModuleContent'>
 							<nav class="bottom-nav">
 								<ul uk-margin="">
-									<li><a href="<?php bloginfo('url'); ?>/tin-tuc/" title="Tin tức">Tin tức</a></li>
+<!--									<li><a href="--><?php //bloginfo('url'); ?><!--/tin-tuc/" title="Tin tức">Tin tức</a></li>-->
 									<li><a href="<?php bloginfo('url'); ?>/faqs" title="FAQs">FAQs</a></li>
 								</ul>
 							</nav>
