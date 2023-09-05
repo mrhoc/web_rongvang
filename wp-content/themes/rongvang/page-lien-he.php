@@ -92,7 +92,7 @@
 										<ul>
 											<li><strong>Hotline</strong><span>(+84) 902 248 918</span></li>
 											<li><strong>email</strong><span>phanthutrang2010@gmail.com</span></li>
-											<li><strong>Website</strong><span>www.demo.vn</span></li>
+											<li><strong>Website</strong><span>https://rongvangvn.com/</span></li>
 										</ul>
 									</div>
 									<div class="social">
